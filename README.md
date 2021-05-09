@@ -1,5 +1,5 @@
 - 👋 Hi, I’m K M Rejowan Ahmmed (@ahmmedrejowan)
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Android Software Development 
 - 🌱 I’m currently learning Java, Kotlin & Android SDK
 - 💞️ I’m looking to collaborate on Android App Projects 
 - 📫 Reach me at ahmmedrejowan@gmail.com
