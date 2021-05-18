@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Joined-2018-fb3640?style=flat) ![](https://img.shields.io/badge/From-Bangladesh-4aa96c?style=flat) ![](https://img.shields.io/badge/Working%20On-Android-00adb5?style=flat) ![](https://img.shields.io/badge/Expertize%20On-Java-fb3640?style=flat) ![](https://img.shields.io/badge/Learning-Kotlin-4aa96c?style=flat) ![](https://komarev.com/ghpvc/?username=ahmmedrejowan&style=flat&color=00adb5) 
-# Hi!
 
+## Hi, I'm Rejowan!
+This is **K M Rejowan Ahmmed** & Welcome to my Github Profile.
 
 ### Stacks
 
@@ -21,6 +22,7 @@
 ![InteliJIdea](https://img.shields.io/badge/-IntellijIdea-05122A?style=flat&logo=Intellij-Idea&logoColor=white&color=4aa96c)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=white&color=4aa96c)&nbsp;
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=Net-Beans-ide&logoColor=white&color=4aa96c)
+
 <br/>
 
 ### Stats
@@ -34,8 +36,9 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ahmmedrejowan&bg_color=114e60&color=ffffff&line=4fff67&point=ffffff&area=true" width="495"/>
 
+<br/>
 
-### Activites 
+### Listening on Spotify 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=227unhvp7zqkrvvblhbtyjh5q&cover_image=true&theme=novatorem" width="495"/>
 
 
