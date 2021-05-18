@@ -25,17 +25,17 @@ This is **K M Rejowan Ahmmed** & Welcome to my Github Profile.
 
 ### Find Me 
 
-<img src="https://img.shields.io/badge/LinkedIn-%20-grey?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" /> <img src="https://img.shields.io/badge/Twitter-%20-grey?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2" /> <img src="https://img.shields.io/badge/Dev-%20-grey?style=flat&logo=dev-dot-to&logoColor=white&labelColor=0A0A0A" />
+<a href="https://www.linkedin.com/in/ahmmedrejowan/"><img src="https://img.shields.io/badge/LinkedIn-%20-grey?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" /> </a> <a href="https://twitter.com/ahmmedrejowan"> <img src="https://img.shields.io/badge/Twitter-%20-grey?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2" /> </a> <a href="https://dev.to/ahmmedrejowan">  <img src="https://img.shields.io/badge/Dev-%20-grey?style=flat&logo=dev-dot-to&logoColor=white&labelColor=0A0A0A" /> </a>  
 
 
-<img src="https://img.shields.io/badge/Github-%20-grey?style=flat&logo=github&logoColor=white&labelColor=100000" /> <img src="https://img.shields.io/badge/Gitlab-%20-grey?style=flat&logo=gitlab&logoColor=white&labelColor=330F63" /> <img src="https://img.shields.io/badge/Stack_Overflow-%20-grey?style=flat&logo=stack-overflow&logoColor=white&labelColor=FE7A16" />
+<a href=""> <img src="https://img.shields.io/badge/Github-%20-grey?style=flat&logo=github&logoColor=white&labelColor=100000" />  </a> <a href=""> <img src="https://img.shields.io/badge/Gitlab-%20-grey?style=flat&logo=gitlab&logoColor=white&labelColor=330F63" />  </a> <a href=""> <img src="https://img.shields.io/badge/Stack_Overflow-%20-grey?style=flat&logo=stack-overflow&logoColor=white&labelColor=FE7A16" /> </a>
 
-<img src="https://img.shields.io/badge/StackExchange-%20-grey?style=flat&logo=StackExchange&logoColor=white&labelColor=ffffff" /> <img src="https://img.shields.io/badge/Reddit-%20-grey?style=flat&logo=reddit&logoColor=white&labelColor=FF4500" /> <img src="https://img.shields.io/badge/Gmail-%20-grey?style=flat&logo=Gmail&logoColor=white&labelColor=D14836" />
+<a href=""> <img src="https://img.shields.io/badge/StackExchange-%20-grey?style=flat&logo=StackExchange&logoColor=white&labelColor=ffffff" /> </a> <a href="">  <img src="https://img.shields.io/badge/Reddit-%20-grey?style=flat&logo=reddit&logoColor=white&labelColor=FF4500" /> </a> <a href="">  <img src="https://img.shields.io/badge/Gmail-%20-grey?style=flat&logo=Gmail&logoColor=white&labelColor=D14836" /> </a> 
 
 
-<img src="https://img.shields.io/badge/Facebook-%20-grey?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" /> <img src="https://img.shields.io/badge/Instagram-%20-grey?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" /> <img src="https://img.shields.io/badge/Skype-%20-grey?style=flat&logo=skype&logoColor=white&labelColor=00aff0" />
+<a href=""> <img src="https://img.shields.io/badge/Facebook-%20-grey?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" /> </a> <a href="">  <img src="https://img.shields.io/badge/Instagram-%20-grey?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" /> </a> <a href="">  <img src="https://img.shields.io/badge/Skype-%20-grey?style=flat&logo=skype&logoColor=white&labelColor=00aff0" /> </a> 
 
-<img src="https://img.shields.io/badge/Pinterest-%20-grey?style=flat&logo=pinterest&logoColor=white&labelColor=E60023" /> <img src="https://img.shields.io/badge/Telegram-%20-grey?style=flat&logo=telegram&logoColor=white&labelColor=2CA5E0" /> <img src="https://img.shields.io/badge/Spotify-%20-grey?style=flat&logo=spotify&logoColor=white&labelColor=1ED760" />
+ <a href=""> <img src="https://img.shields.io/badge/Pinterest-%20-grey?style=flat&logo=pinterest&logoColor=white&labelColor=E60023" /> </a> <a href="">  </a> <a href="">  </a> <a href="">  <img src="https://img.shields.io/badge/Telegram-%20-grey?style=flat&logo=telegram&logoColor=white&labelColor=2CA5E0" /> </a> <a href="">  </a> <a href="">  <img src="https://img.shields.io/badge/Spotify-%20-grey?style=flat&logo=spotify&logoColor=white&labelColor=1ED760" /> </a> 
 
 
 ### Stats
