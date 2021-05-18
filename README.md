@@ -36,7 +36,8 @@
 
 
 ### Activites 
-![spotify](https://spotify-github-profile.vercel.app/api/view?uid=227unhvp7zqkrvvblhbtyjh5q&cover_image=true&theme=default)
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=227unhvp7zqkrvvblhbtyjh5q&cover_image=true&theme=novatorem" width="495"/>
+
 
 <br/>
 <br/>
