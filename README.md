@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Joined-2018-blue?style=flat) ![](https://komarev.com/ghpvc/?username=ahmmedrejowan&style=flat) 
+![](https://img.shields.io/badge/Joined-2018-fb3640?style=flat) ![](https://img.shields.io/badge/From-Bangladesh-4aa96c?style=flat) ![](https://img.shields.io/badge/Working%20On-Android-00adb5?style=flat) ![](https://img.shields.io/badge/Expertize%20On-Java-fb3640?style=flat) ![](https://img.shields.io/badge/Learning-Kotlin-4aa96c?style=flat) ![](https://komarev.com/ghpvc/?username=ahmmedrejowan&style=flat&color=00adb5) 
 # Hi!
 
 
