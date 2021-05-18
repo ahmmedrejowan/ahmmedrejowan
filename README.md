@@ -24,18 +24,19 @@
 <br/>
 
 ### Stats
-[![K M Rejowan Ahmmed](https://github-readme-stats.vercel.app/api?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=F7D847&icon_color=ffffff&bg_color=007965&include_all_commits=true&border_radius=false)](https://github.com/ahmmedrejowan)
-
-[![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=ahmmedrejowan&theme=radical&background=114e60&ring=F7D847&fire=F7D847&sideNums=ffffff&sideLabels=ffffff)](https://github.com/ahmmedrejowan)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=F7D847&bg_color=007965&layout=compact&border_radius=false)](https://github.com/ahmmedrejowan)
+<img src="https://github-readme-stats.vercel.app/api?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=F7D847&icon_color=ffffff&bg_color=007965&include_all_commits=true&border_radius=false" width="495"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmedrejowan&theme=radical&background=114e60&ring=F7D847&fire=F7D847&sideNums=ffffff&sideLabels=ffffff" width="495"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=ffffff&bg_color=007965&layout=compact&border_radius=false" width="495"/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=ahmmedrejowan&bg_color=114e60&color=ffffff&line=4fff67&point=ffffff&area=true" width="495"/>
 
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmmedrejowan&bg_color=114e60&color=F7D847&line=4fff67&point=ffffff&area=true)](https://github.com/ahmmedrejowan)
-
-
-
+### Activites 
+![spotify](https://spotify-github-profile.vercel.app/api/view?uid=227unhvp7zqkrvvblhbtyjh5q&cover_image=true&theme=default)
 
 <br/>
 <br/>
