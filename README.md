@@ -27,9 +27,13 @@
 <br/>
 
 ### Stats
-[![K M Rejowan Ahmmed](https://github-readme-stats.vercel.app/api?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=114e60&include_all_commits=true)](https://github.com/ahmmedrejowan)
+[![K M Rejowan Ahmmed](https://github-readme-stats.vercel.app/api?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=4fff67&icon_color=ffffff&bg_color=114e60&include_all_commits=true&border_radius=false)](https://github.com/ahmmedrejowan)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=ffffff&bg_color=007965&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=ffffff&bg_color=007965&layout=compact&border_radius=false)](https://github.com/ahmmedrejowan)
+<br/>
+<br/>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmmedrejowan&bg_color=114e60&color=ffffff&line=4fff67&point=ffffff&area=true)  
 
 
 <br/>
