@@ -2,25 +2,25 @@
 
 ### Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=Xml&logoColor=FFA518)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white&color=00adb5)&nbsp;
+![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=Xml&logoColor=white&color=00adb5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white&color=00adb5)&nbsp;
 <br/>
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=FFA518)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white&color=fb3640)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=white&color=fb3640)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=white&color=fb3640)&nbsp;
 <br/>
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON&logoColor=FFA518)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=FFA518)&nbsp;
-![ParseServer](https://img.shields.io/badge/-ParseServer-05122A?style=flat&logo=Parse-Server&logoColor=FFA518)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON&logoColor=white&color=4aa96c)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=white&color=4aa96c)&nbsp;
+![ParseServer](https://img.shields.io/badge/-ParseServer-05122A?style=flat&logo=Parse-Server&logoColor=white&color=4aa96c)&nbsp;
 <br/>
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Android-Studio)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white&color=02475e)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white&color=02475e)&nbsp;
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Android-Studio&logoColor=white&color=02475e)&nbsp;
 <br/>
-![InteliJIdea](https://img.shields.io/badge/-IntellijIdea-05122A?style=flat&logo=Intellij-Idea&logoColor=2C2255)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
+![InteliJIdea](https://img.shields.io/badge/-IntellijIdea-05122A?style=flat&logo=Intellij-Idea&logoColor=white&color=aa2ee6)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=white&color=aa2ee6)&nbsp;
+![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=Net-Beans-ide&logoColor=white&color=aa2ee6)
 
 
 
