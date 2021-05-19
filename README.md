@@ -8,22 +8,22 @@
 
 ### Stacks
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white&color=ED8B00)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=white&color=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white&color=E34F26)&nbsp;
-![UI](https://img.shields.io/badge/-UI-05122A?style=flat&logo=material-ui&logoColor=white&color=0081CB)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white&color=239120)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=white&color=ED8B00)
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=white&color=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26)&nbsp;
+![UI](https://img.shields.io/badge/-UI-05122A?style=for-the-badge&logo=material-ui&logoColor=white&color=0081CB)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=white&color=239120)&nbsp;
 
-![ParseServer](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android&logoColor=white&color=3DDC84)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=white&color=07405E)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON&logoColor=white&color=2E71F7)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=white&color=ffca28)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white&color=F05032)&nbsp;
+![ParseServer](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android&logoColor=white&color=3DDC84)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=SQLite&logoColor=white&color=07405E)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=for-the-badge&logo=JSON&logoColor=white&color=2E71F7)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=Firebase&logoColor=white&color=ffca28)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white&color=F05032)&nbsp;
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white&color=100000)&nbsp;
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Android-Studio&logoColor=white&color=87BA53)&nbsp;
-![InteliJIdea](https://img.shields.io/badge/-IntellijIdea-05122A?style=flat&logo=Intellij-Idea&logoColor=white&color=000000)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=white&color=2C2255)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white&color=100000)&nbsp;
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=for-the-badge&logo=Android-Studio&logoColor=white&color=87BA53)&nbsp;
+![InteliJIdea](https://img.shields.io/badge/-IntellijIdea-05122A?style=for-the-badge&logo=Intellij-Idea&logoColor=white&color=000000)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=for-the-badge&logo=eclipse-ide&logoColor=white&color=2C2255)&nbsp;
 <br/>
 
 ### Featured Repos
@@ -34,7 +34,7 @@
 
 ### Find Me 
 
-<a href="https://www.linkedin.com/in/ahmmedrejowan/"><img src="https://img.shields.io/badge/LinkedIn-%20-grey?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" /> </a> <a href="https://twitter.com/ahmmedrejowan"> <img src="https://img.shields.io/badge/Twitter-%20-grey?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2" /> </a> <a href="https://dev.to/ahmmedrejowan">  <img src="https://img.shields.io/badge/Dev-%20-grey?style=flat&logo=dev-dot-to&logoColor=white&labelColor=0A0A0A" /> </a>  
+<a href="https://www.linkedin.com/in/ahmmedrejowan/"><img src="https://img.shields.io/badge/LinkedIn-%20-grey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /> </a> <a href="https://twitter.com/ahmmedrejowan"> <img src="https://img.shields.io/badge/Twitter-%20-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" /> </a> <a href="https://dev.to/ahmmedrejowan">  <img src="https://img.shields.io/badge/Dev-%20-grey?style=for-the-badge&logo=dev-dot-to&logoColor=white&labelColor=0A0A0A" /> </a>  
 
 
 <a href=""> <img src="https://img.shields.io/badge/Github-%20-grey?style=flat&logo=github&logoColor=white&labelColor=100000" />  </a> <a href=""> <img src="https://img.shields.io/badge/Gitlab-%20-grey?style=flat&logo=gitlab&logoColor=white&labelColor=330F63" />  </a> <a href=""> <img src="https://img.shields.io/badge/Stack_Overflow-%20-grey?style=flat&logo=stack-overflow&logoColor=white&labelColor=FE7A16" /> </a>
