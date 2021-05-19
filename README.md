@@ -4,9 +4,10 @@
 ## Hi, I'm Rejowan!
 
   
-  ![K M Rejowan Ahmmed](https://user-images.githubusercontent.com/42619122/118788505-af9faa00-b8b5-11eb-993c-d7cdbf0c668c.png)
+  [![K M Rejowan Ahmmed](https://user-images.githubusercontent.com/42619122/118788505-af9faa00-b8b5-11eb-993c-d7cdbf0c668c.png)](https://github.com/ahmmedrejowan)
 
 
+ <img align="right" alt="k M Rejowan Ahmmed - credit: Raj" src="https://user-images.githubusercontent.com/42619122/118872383-557d0400-b90a-11eb-9b3f-76e00a4ad77f.png" width="250px" />
 
 ### About Me
 
