@@ -1,9 +1,20 @@
 ![](https://img.shields.io/badge/Joined-2018-fb3640?style=flat) ![](https://img.shields.io/badge/From-Bangladesh-4aa96c?style=flat) ![](https://img.shields.io/badge/Working%20On-Android-00adb5?style=flat) ![](https://img.shields.io/badge/Expertize%20On-Java-fb3640?style=flat) ![](https://img.shields.io/badge/Learning-Kotlin-4aa96c?style=flat) ![](https://komarev.com/ghpvc/?username=ahmmedrejowan&style=flat&color=00adb5) 
 
+
 ## Hi, I'm Rejowan!
 
   
   ![K M Rejowan Ahmmed](https://user-images.githubusercontent.com/42619122/118788505-af9faa00-b8b5-11eb-993c-d7cdbf0c668c.png)
+
+
+
+### About Me
+
+I always have a great interest in Technologies. **When I had a phone with an Internet connection for the first time in my life, I knew I have a strong relationship with it**. From then I can't stop but learned everything I got access to. 
+
+I taught myself HTML, CSS and started designing websites. Later on, I discovered myself learning C Programming. Now I'm on the way to be a Backend Software Developer. 
+
+**I'm currently working on Android App Development with Java. I am working on being more expert on Advanced Java Programming and Kotlin.**  
 
 
 ### Stacks
@@ -24,12 +35,6 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=for-the-badge&logo=Android-Studio&logoColor=white&color=87BA53)&nbsp;
 ![InteliJIdea](https://img.shields.io/badge/-IntellijIdea-05122A?style=for-the-badge&logo=Intellij-Idea&logoColor=white&color=000000)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=for-the-badge&logo=eclipse-ide&logoColor=white&color=2C2255)&nbsp;
-<br/>
-
-### Featured Repos
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutetoast&bg_color=007965&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutetoast) [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutebutton&bg_color=114e60&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutebutton)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutesnack&bg_color=007965&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutesnack) 
 
 
 ### Find Me 
@@ -46,9 +51,17 @@
 
  <a href=""> <img src="https://img.shields.io/badge/Pinterest-%20-grey?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=E60023" /> </a> <a href="">  <img src="https://img.shields.io/badge/Telegram-%20-grey?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" /> </a> <a href="">  <img src="https://img.shields.io/badge/Spotify-%20-grey?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1ED760" /> </a> 
 
+<a href="">  <img src="https://img.shields.io/badge/Visit%20My%20Website-%20-grey?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B"/> </a> 
+
+
+### Featured Repos
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutetoast&bg_color=007965&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutetoast) [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutebutton&bg_color=114e60&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutebutton)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutesnack&bg_color=007965&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutesnack) 
+
+
 
 ### Stats
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=F7D847&icon_color=ffffff&bg_color=007965&include_all_commits=true&border_radius=false" width="495"/>
 
@@ -58,9 +71,9 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ahmmedrejowan&bg_color=114e60&color=ffffff&line=4fff67&point=ffffff&area=true" width="495"/>
 
-<br/>
 
 ### Listening on Spotify 
+
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=227unhvp7zqkrvvblhbtyjh5q&cover_image=true&theme=novatorem" width="495"/>
 
 
