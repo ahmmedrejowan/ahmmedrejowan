@@ -29,7 +29,7 @@
 ### Featured Repos
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutetoast&bg_color=007965&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutetoast) [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutebutton&bg_color=114e60&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutebutton)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutesnack&bg_color=114e60&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutesnack) 
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutesnack&bg_color=007965&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutesnack) 
 
 
 ### Find Me 
