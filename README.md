@@ -42,14 +42,14 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 <a href="https://www.linkedin.com/in/ahmmedrejowan/"><img src="https://img.shields.io/badge/LinkedIn-%20-grey?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /> </a> <a href="https://twitter.com/ahmmedrejowan"> <img src="https://img.shields.io/badge/Twitter-%20-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" /> </a> <a href="https://dev.to/ahmmedrejowan">  <img src="https://img.shields.io/badge/Dev-%20-grey?style=for-the-badge&logo=dev-dot-to&logoColor=white&labelColor=0A0A0A" /> </a>  
 
 
-<a href=""> <img src="https://img.shields.io/badge/Github-%20-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />  </a> <a href=""> <img src="https://img.shields.io/badge/Gitlab-%20-grey?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=330F63" />  </a> <a href=""> <img src="https://img.shields.io/badge/Stack_Overflow-%20-grey?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16" /> </a>
+<a href="https://github.com/ahmmedrejowan"> <img src="https://img.shields.io/badge/Github-%20-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />  </a> <a href="https://github.com/ahmmedrejowan"> <img src="https://img.shields.io/badge/Gitlab-%20-grey?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=330F63" />  </a> <a href="https://stackoverflow.com/users/9932194/k-m-rejowan-ahmmed"> <img src="https://img.shields.io/badge/Stack_Overflow-%20-grey?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16" /> </a>
 
-<a href=""> <img src="https://img.shields.io/badge/StackExchange-%20-grey?style=for-the-badge&logo=StackExchange&logoColor=white&labelColor=ffffff" /> </a> <a href="">  <img src="https://img.shields.io/badge/Reddit-%20-grey?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500" /> </a> <a href="">  <img src="https://img.shields.io/badge/Gmail-%20-grey?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836" /> </a> 
+<a href="https://stackexchange.com/users/13762909/k-m-rejowan-ahmmed"> <img src="https://img.shields.io/badge/StackExchange-%20-grey?style=for-the-badge&logo=StackExchange&logoColor=white&labelColor=ffffff" /> </a> <a href="https://www.reddit.com/u/ahmmedrejowan">  <img src="https://img.shields.io/badge/Reddit-%20-grey?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500" /> </a> <a href="mailto:ahmmedrejowan@gmail.com">  <img src="https://img.shields.io/badge/Gmail-%20-grey?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836" /> </a> 
 
 
-<a href=""> <img src="https://img.shields.io/badge/Facebook-%20-grey?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" /> </a> <a href="">  <img src="https://img.shields.io/badge/Instagram-%20-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /> </a> <a href="">  <img src="https://img.shields.io/badge/Skype-%20-grey?style=for-the-badge&logo=skype&logoColor=white&labelColor=00aff0" /> </a> 
+<a href="https://www.facebook.com/ahmmedrejowan/"> <img src="https://img.shields.io/badge/Facebook-%20-grey?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" /> </a> <a href="https://t.me/ahmmedrejowan">  <img src="https://img.shields.io/badge/Instagram-%20-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /> </a> <a href="https://join.skype.com/invite/VHOAYqzK8xV3">  <img src="https://img.shields.io/badge/Skype-%20-grey?style=for-the-badge&logo=skype&logoColor=white&labelColor=00aff0" /> </a> 
 
- <a href=""> <img src="https://img.shields.io/badge/Pinterest-%20-grey?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=E60023" /> </a> <a href="">  <img src="https://img.shields.io/badge/Telegram-%20-grey?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" /> </a> <a href="">  <img src="https://img.shields.io/badge/Spotify-%20-grey?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1ED760" /> </a> 
+ <a href=""> <img src="https://img.shields.io/badge/Pinterest-%20-grey?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=E60023" /> </a> <a href="https://t.me/ahmmedrejowan">  <img src="https://img.shields.io/badge/Telegram-%20-grey?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" /> </a> <a href="">  <img src="https://img.shields.io/badge/Spotify-%20-grey?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1ED760" /> </a> 
 
 <a href="">  <img src="https://img.shields.io/badge/Visit%20My%20Website-%20-grey?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B"/> </a> 
 
@@ -73,21 +73,10 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 
 
 ### Listening on Spotify 
-
+<kbd>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=227unhvp7zqkrvvblhbtyjh5q&cover_image=true&theme=novatorem" width="495"/>
-
+</kbd>
 
 <br/>
 <br/>
 
-
-- 👋 Hi, I’m K M Rejowan Ahmmed (@ahmmedrejowan)
-- 👀 I’m interested in Android Software Development 
-- 🌱 I’m currently learning Java, Kotlin & Android SDK
-- 💞️ I’m looking to collaborate on Android App Projects 
-- 📫 Reach me at ahmmedrejowan@gmail.com
-
-<!---
-ahmmedrejowan/ahmmedrejowan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
