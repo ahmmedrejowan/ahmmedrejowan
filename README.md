@@ -49,9 +49,9 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 
 <a href="https://www.facebook.com/ahmmedrejowan/"> <img src="https://img.shields.io/badge/Facebook-%20-grey?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" /> </a> <a href="https://t.me/ahmmedrejowan">  <img src="https://img.shields.io/badge/Instagram-%20-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /> </a> <a href="https://join.skype.com/invite/VHOAYqzK8xV3">  <img src="https://img.shields.io/badge/Skype-%20-grey?style=for-the-badge&logo=skype&logoColor=white&labelColor=00aff0" /> </a> 
 
- <a href=""> <img src="https://img.shields.io/badge/Pinterest-%20-grey?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=E60023" /> </a> <a href="https://t.me/ahmmedrejowan">  <img src="https://img.shields.io/badge/Telegram-%20-grey?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" /> </a> <a href="">  <img src="https://img.shields.io/badge/Spotify-%20-grey?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1ED760" /> </a> 
+ <a href="https://pinterest.com/ahmmedrejowan"> <img src="https://img.shields.io/badge/Pinterest-%20-grey?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=E60023" /> </a> <a href="https://t.me/ahmmedrejowan">  <img src="https://img.shields.io/badge/Telegram-%20-grey?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" /> </a> <a href="https://open.spotify.com/user/227unhvp7zqkrvvblhbtyjh5q?si=f32c5c5969da4f75">  <img src="https://img.shields.io/badge/Spotify-%20-grey?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1ED760" /> </a> 
 
-<a href="">  <img src="https://img.shields.io/badge/Visit%20My%20Website-%20-grey?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B"/> </a> 
+<a href="https://rejowan.com">  <img src="https://img.shields.io/badge/Visit%20My%20Website-%20-grey?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B"/> </a> 
 
 
 ### Featured Repos
