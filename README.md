@@ -1,7 +1,10 @@
 ![](https://img.shields.io/badge/Joined-2018-fb3640?style=flat) ![](https://img.shields.io/badge/From-Bangladesh-4aa96c?style=flat) ![](https://img.shields.io/badge/Working%20On-Android-00adb5?style=flat) ![](https://img.shields.io/badge/Expertize%20On-Java-fb3640?style=flat) ![](https://img.shields.io/badge/Learning-Kotlin-4aa96c?style=flat) ![](https://komarev.com/ghpvc/?username=ahmmedrejowan&style=flat&color=00adb5) 
 
 ## Hi, I'm Rejowan!
-This is **K M Rejowan Ahmmed** & Welcome to my Github Profile.
+
+  
+  ![K M Rejowan Ahmmed](https://user-images.githubusercontent.com/42619122/118788505-af9faa00-b8b5-11eb-993c-d7cdbf0c668c.png)
+
 
 ### Stacks
 
@@ -21,6 +24,12 @@ This is **K M Rejowan Ahmmed** & Welcome to my Github Profile.
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=Android-Studio&logoColor=white&color=87BA53)&nbsp;
 ![InteliJIdea](https://img.shields.io/badge/-IntellijIdea-05122A?style=flat&logo=Intellij-Idea&logoColor=white&color=000000)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=white&color=2C2255)&nbsp;
+<br/>
+
+### Featured Repos
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutetoast&bg_color=007965&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutetoast) [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutebutton&bg_color=114e60&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutebutton)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutesnack&bg_color=114e60&text_color=ffffff&title_color=FFE732&icon_color=ffffff)](https://github.com/ahmmedrejowan/cutesnack) 
 
 
 ### Find Me 
