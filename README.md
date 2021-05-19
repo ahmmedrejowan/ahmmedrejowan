@@ -81,6 +81,7 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=227unhvp7zqkrvvblhbtyjh5q&cover_image=true&theme=novatorem" width="495"/>
 </kbd>
 
-<br/>
-<br/>
+
+### Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=ahmmedrejowan&theme=darkhub&bg=false" width="500" />
 
