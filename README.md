@@ -90,8 +90,6 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
-
 **I'm a Night 🦉** 
 
 ```text
