@@ -86,3 +86,9 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 ### Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=ahmmedrejowan&theme=darkhub&bg=false" width="500" />
 
+
+### Wakatime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
