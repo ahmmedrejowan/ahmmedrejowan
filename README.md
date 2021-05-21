@@ -90,5 +90,79 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 100 Contributions in the Year 2021
+ > 
+> 📦 553 Bytes Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+🌆 Daytime    15 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
+🌃 Evening    22 commits     ██████░░░░░░░░░░░░░░░░░░░   24.72% 
+🌙 Night      51 commits     ██████████████░░░░░░░░░░░   57.3%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       20 commits     █████░░░░░░░░░░░░░░░░░░░░   22.47% 
+Tuesday      22 commits     ██████░░░░░░░░░░░░░░░░░░░   24.72% 
+Wednesday    14 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
+Friday       17 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
+Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Other                    6 mins              █████████████████████████   99.81% 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+
+🔥 Editors: 
+Browser                  6 mins              █████████████████████████   99.81% 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+
+🐱‍💻 Projects: 
+Cute Button              6 mins              █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  6 mins              █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             ███████████████░░░░░░░░░░   60.0% 
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ahmmedrejowan/ahmmedrejowan/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
