@@ -149,9 +149,7 @@ HTML                     2 repos             ██████████░�
 ### I love to 
 <p> <figure>
   <img src="https://user-images.githubusercontent.com/42619122/119235871-53a78080-bb56-11eb-9ff2-d4b205d63aa3.gif" width="300px"/>
-  <figcaption>An elephant at sunset</figcaption>
    <img src="https://user-images.githubusercontent.com/42619122/119235871-53a78080-bb56-11eb-9ff2-d4b205d63aa3.gif" width="300px"/>
-  <figcaption>An elephant at sunset</figcaption>
 </figure> 
 
 </p>
