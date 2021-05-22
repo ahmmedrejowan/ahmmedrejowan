@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Joined-2018-fb3640?style=flat) ![](https://img.shields.io/badge/From-Bangladesh-4aa96c?style=flat) ![](https://img.shields.io/badge/Working%20On-Android-00adb5?style=flat) ![](https://img.shields.io/badge/Expertize%20On-Java-fb3640?style=flat) ![](https://img.shields.io/badge/Learning-Kotlin-4aa96c?style=flat) ![](https://komarev.com/ghpvc/?username=ahmmedrejowan&style=flat&color=00adb5) 
 
 
+
 ## Hi, I'm Rejowan!
 
   
@@ -148,6 +149,6 @@ HTML                     2 repos             ██████████░�
 
 ### I love to 
 <p> 
-  <img src="https://user-images.githubusercontent.com/42619122/119235871-53a78080-bb56-11eb-9ff2-d4b205d63aa3.gif" width="300px"/> <img src="https://user-images.githubusercontent.com/42619122/119236453-548de180-bb59-11eb-8c87-452f64485a55.gif" width="300px"/>
+  <img src="https://user-images.githubusercontent.com/42619122/119235871-53a78080-bb56-11eb-9ff2-d4b205d63aa3.gif" width="300px"/> <img src="https://user-images.githubusercontent.com/42619122/119236640-6459f580-bb5a-11eb-8ec0-6a6a6a4a7d0f.gif" width="300px"/>
 
 </p>
