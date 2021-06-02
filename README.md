@@ -94,22 +94,22 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
-🌆 Daytime    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-🌃 Evening    63 commits     ███████░░░░░░░░░░░░░░░░░░   27.63% 
-🌙 Night      146 commits    ████████████████░░░░░░░░░   64.04%
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+🌆 Daytime    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
+🌃 Evening    63 commits     ██████░░░░░░░░░░░░░░░░░░░   27.39% 
+🌙 Night      148 commits    ████████████████░░░░░░░░░   64.35%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       36 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Tuesday      58 commits     ██████░░░░░░░░░░░░░░░░░░░   25.44% 
-Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
-Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
-Friday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Saturday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
-Sunday       40 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54%
+Monday       36 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Tuesday      58 commits     ██████░░░░░░░░░░░░░░░░░░░   25.22% 
+Wednesday    24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
+Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
+Friday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Saturday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
+Sunday       40 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39%
 
 ```
 
