@@ -16,7 +16,7 @@ I always have a great interest in Technologies. **When I had a phone with an Int
 
 I taught myself HTML, CSS and started designing websites. Later on, I discovered myself learning C Programming. Now I'm on the way to be a Backend Software Developer. 
 
-**I'm currently working on Android App Development with Java. I am working on being more expert on Advanced Java Programming and Kotlin.**  
+**I'm currently working on Android App Development with Java. I am working on being more expert on Advanced Java Programming and Kotlin.** 
 
 
 ### Stacks
@@ -149,7 +149,7 @@ HTML                     2 repos             ████████░░░�
 <!--END_SECTION:waka-->
 
 
-### I love to 
+### I love 
 
 <img src="https://user-images.githubusercontent.com/42619122/119237865-ef3dee80-bb60-11eb-86b5-86fef6e6c7c2.gif" width="300px"/>  <img src="https://user-images.githubusercontent.com/42619122/119237147-3cb85c80-bb5d-11eb-91b0-c62f65c6c3f0.gif" width="300px"/> <br/>
 <img src="https://user-images.githubusercontent.com/42619122/119237138-375b1200-bb5d-11eb-95c0-6f39cd5eee42.gif" width="300px"/>  <img src="https://user-images.githubusercontent.com/42619122/119237861-ea793a80-bb60-11eb-8175-a2b2c6a0fbcb.gif" width="300px"/> 
