@@ -16,7 +16,7 @@ I always have a great interest in Technologies. **When I had a phone with an Int
 
 I taught myself HTML, CSS and started designing websites. Later on, I discovered myself learning C Programming. Now I'm on the way to be a Backend Software Developer. 
 
-**I'm currently working on Android App Development with Java. I am working on being more expert on Advanced Java Programming and Kotlin.** 
+**I'm currently working on Android App Development with Java. I am working on being more expert on Advanced Java Programming and Kotlin.**  
 
 
 ### Stacks
