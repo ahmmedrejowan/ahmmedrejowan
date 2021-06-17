@@ -91,25 +91,27 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6366%20lines%20of%20code-blue)
+
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
-🌆 Daytime    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
-🌃 Evening    92 commits     ███████░░░░░░░░░░░░░░░░░░   28.93% 
-🌙 Night      187 commits    ██████████████░░░░░░░░░░░   58.81%
+🌆 Daytime    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
+🌃 Evening    92 commits     ███████░░░░░░░░░░░░░░░░░░   28.75% 
+🌙 Night      189 commits    ██████████████░░░░░░░░░░░   59.06%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
-Tuesday      75 commits     ██████░░░░░░░░░░░░░░░░░░░   23.58% 
-Wednesday    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
-Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.86% 
-Friday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
-Saturday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Sunday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98%
+Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
+Tuesday      75 commits     █████░░░░░░░░░░░░░░░░░░░░   23.44% 
+Wednesday    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.62% 
+Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
+Friday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
+Saturday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
+Sunday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88%
 
 ```
 
