@@ -69,11 +69,11 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=F7D847&icon_color=ffffff&bg_color=007965&include_all_commits=true&border_radius=false" width="495"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=F7D847&icon_color=ffffff&bg_color=007965&include_all_commits=true&border_radius=false&count_private=true" width="495"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmedrejowan&theme=radical&background=114e60&ring=F7D847&fire=F7D847&sideNums=ffffff&sideLabels=ffffff" width="495"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=ffffff&bg_color=007965&layout=compact&border_radius=false" width="495"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=ffffff&bg_color=007965&layout=compact&border_radius=false&exclude_repo=ahmmedrejowan.github.io" width="495"/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ahmmedrejowan&bg_color=114e60&color=ffffff&line=4fff67&point=ffffff&area=true" width="495"/>
 
