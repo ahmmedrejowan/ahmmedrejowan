@@ -91,27 +91,27 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-🌆 Daytime    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
-🌃 Evening    93 commits     ██████░░░░░░░░░░░░░░░░░░░   26.96% 
-🌙 Night      195 commits    ██████████████░░░░░░░░░░░   56.52%
+🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
+🌆 Daytime    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.21% 
+🌃 Evening    94 commits     ██████░░░░░░░░░░░░░░░░░░░   24.74% 
+🌙 Night      228 commits    ███████████████░░░░░░░░░░   60.0%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
-Tuesday      75 commits     █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-Wednesday    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-Thursday     25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
-Friday       64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
-Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-Sunday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.23%
+Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
+Tuesday      75 commits     █████░░░░░░░░░░░░░░░░░░░░   19.74% 
+Wednesday    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
+Thursday     25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
+Friday       65 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
+Saturday     77 commits     █████░░░░░░░░░░░░░░░░░░░░   20.26% 
+Sunday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74%
 
 ```
 
@@ -135,15 +135,15 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     9 repos             ████████████████████░░░░░   81.82% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Java                     10 repos            ████████████████████░░░░░   83.33% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
 
 
- Last Updated on 17/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
 
 
