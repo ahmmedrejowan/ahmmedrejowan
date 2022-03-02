@@ -55,37 +55,6 @@ I taught myself HTML, CSS and started designing websites. Later on, I discovered
 <a href="https://rejowan.com">  <img src="https://img.shields.io/badge/Visit%20My%20Website-%20-grey?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B"/> </a>
 
 
-### Featured Repos
-
-<a href="https://github.com/ahmmedrejowan/cutetoast"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutetoast&bg_color=007965&text_color=ffffff&title_color=FFE732&icon_color=ffffff" width="495" /> </a>
-
-<a href="https://github.com/ahmmedrejowan/cutebutton"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutebutton&bg_color=114e60&text_color=ffffff&title_color=FFE732&icon_color=ffffff" width="495" /> </a>
-
-<a href="https://github.com/ahmmedrejowan/cutesnack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmmedrejowan&repo=cutesnack&bg_color=007965&text_color=ffffff&title_color=FFE732&icon_color=ffffff" width="495"/> </a>
-
-
-
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=F7D847&icon_color=ffffff&bg_color=007965&include_all_commits=true&border_radius=false&count_private=true" width="495"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmedrejowan&theme=radical&background=114e60&ring=F7D847&fire=F7D847&sideNums=ffffff&sideLabels=ffffff" width="495"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmmedrejowan&show_icons=true&theme=merko&text_color=ffffff&title_color=ffffff&bg_color=007965&layout=compact&border_radius=false&exclude_repo=ahmmedrejowan.github.io" width="495"/>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=ahmmedrejowan&bg_color=114e60&color=ffffff&line=4fff67&point=ffffff&area=true" width="495"/>
-
-
-### Listening on Spotify
-<kbd>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=227unhvp7zqkrvvblhbtyjh5q&cover_image=true&theme=novatorem" width="495"/>
-</kbd>
-
-
-### Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ahmmedrejowan&theme=darkhub&bg=false" width="500" />
-
-
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
