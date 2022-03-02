@@ -116,9 +116,3 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 01/03/2022 18:46:37 UTC
 <!--END_SECTION:waka-->
-
-
-### I love to
-
-<img src="https://user-images.githubusercontent.com/42619122/119237865-ef3dee80-bb60-11eb-86b5-86fef6e6c7c2.gif" width="300px"/>  <img src="https://user-images.githubusercontent.com/42619122/119237147-3cb85c80-bb5d-11eb-91b0-c62f65c6c3f0.gif" width="300px"/> <br/>
-<img src="https://user-images.githubusercontent.com/42619122/119237138-375b1200-bb5d-11eb-95c0-6f39cd5eee42.gif" width="300px"/>  <img src="https://user-images.githubusercontent.com/42619122/119237861-ea793a80-bb60-11eb-8175-a2b2c6a0fbcb.gif" width="300px"/>
