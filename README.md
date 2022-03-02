@@ -9,7 +9,7 @@
 
 Hi, It's Rejowan. I'm an Android App Developer & Designer from Bangladesh. Currently, I'm studying at Jahangirnagar University, Dhaka. I've been working on Java Programming and Android App Development since 2017.
 
-Throughout my journey, I've done a bunch of Personal and Client Projects. As a contributor to the Android App Developer Community, I made some open-source libraries.
+Throughout my journey, I've done a bunch of Personal and Client Projects. As a contributor to the Android App Developer Community, I made some open-source libraries too.
 
 
 <br/>
