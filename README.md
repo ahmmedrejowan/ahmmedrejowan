@@ -1,13 +1,12 @@
 <p align="center"><img src="https://img.shields.io/badge/Joined-2018-fb3640?style=flat" alt=""> <img src="https://img.shields.io/badge/From-Bangladesh-4aa96c?style=flat" alt=""> <img src="https://img.shields.io/badge/Platform-Android-00adb5?style=flat" alt=""> <img src="https://img.shields.io/badge/Language-Java-fb3640?style=flat" alt=""> <img src="https://img.shields.io/badge/Language-Kotlin-4aa96c?style=flat" alt=""></p>
 
-<h1><p align="center"> <img src="/files/avatar.png" alt="K M Rejowan Ahmmed" width="50">
- K M Rejowan Ahmmed</p></h1>
+<h1><p align="center">K M Rejowan Ahmmed</p></h1>
 
 
 
 
 
- <img align="right" alt="k M Rejowan Ahmmed - credit: Raj" src="https://user-images.githubusercontent.com/42619122/118872383-557d0400-b90a-11eb-9b3f-76e00a4ad77f.png" width="250px" />
+ <img align="right" alt="k M Rejowan Ahmmed" src="/files/avatar.png" width="250px" />
 
 ### About Me
 
