@@ -3,7 +3,7 @@
     <title>K M Rejowan Ahmmed</title>
     <link href="https://cv.rejowan.com/feed.xml" rel="self" />
     <link href="https://cv.rejowan.com" />
-    <updated>2024-03-07T19:14:10+06:00</updated>
+    <updated>2024-03-07T19:29:18+06:00</updated>
     <author>
         <name>K M Rejowan Ahmmed</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" medium="image" />
             <category term="Android App"/>
 
-        <updated>2024-03-07T19:14:10+06:00</updated>
+        <updated>2024-03-07T19:29:18+06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" alt="Device Info" />
@@ -166,8 +166,36 @@
 </tbody>
 </table>
 <h2>Demo</h2>
-<p> </p>
-<p> </p>
+<p>Here is an APK for testing the Device Info app. </p>
+<p><strong><a href="https://cv.rejowan.com/media/files/Device Info.apk" title="Download Now">Download Now</a></strong></p>
+<h2>What I’ve Learned</h2>
+<p>Throughout the development of this project, my journey was as much about discovery as it was about creation. Here are some key insights I gained:</p>
+<ul>
+<li>
+<p><strong>Understanding Android Devices</strong>: I delved deep into the intricacies of Android devices, unraveling the layers that users interact with daily. This exploration gave me a profound appreciation for the complexity and sophistication of modern mobile devices.</p>
+</li>
+<li>
+<p><strong>System Insights</strong>: I learned how Android’s underlying system operates, where data is meticulously stored, and how it’s retrieved to provide a seamless user experience.</p>
+</li>
+<li>
+<p><strong>App Ecosystem</strong>: Observing how other applications function within the same ecosystem broadened my perspective on designing apps that play well with others, ensuring compatibility and efficiency.</p>
+</li>
+<li>
+<p><strong>Linux Kernel Structure</strong>: The Linux kernel is the bedrock upon which Android stands. Understanding its structure was like learning a new language that, once mastered, allowed me to communicate more effectively with the device’s core.</p>
+</li>
+<li>
+<p><strong>Version Variations</strong>: With each new Android version, changes abound. I learned to navigate these changes, adapting to new information structures and system behaviors.</p>
+</li>
+<li>
+<p><strong>Cross-Version Compatibility</strong>: Ensuring that an app remains functional across different versions of Android was a challenge that taught me the importance of forward-thinking and adaptability in software development.</p>
+</li>
+</ul>
+<h2>Source Code</h2>
+<p>The source code for this project is currently closed source. If you’re interested in the technical details or considering working together on this or future projects, don’t hesitate to reach out. You can contact me at <a href="mailto:kmrejowan@gmail.com">kmrejowan@gmail.com</a>, and we can set up a time to have a detailed conversation about the code and its intricacies.</p>
+<h2>Conclusion</h2>
+<p>This journey through the development of my Android application has been both challenging and rewarding. It pushed the boundaries of my understanding of Android devices, their operating systems, and the underlying Linux kernel. The solutions I crafted not only solved the immediate problems but also contributed to a broader knowledge base that can assist others facing similar challenges.</p>
+<p>As I continue to explore the vast landscape of mobile development, I remain committed to learning, sharing, and improving. Whether it’s through closed-source ventures that push technological limits or open-source contributions that foster community growth, the adventure never ceases.</p>
+<p>Thank you for following along with this project’s story. May it inspire your own path of discovery and innovation in the world of technology.</p>
             ]]>
         </content>
     </entry>
