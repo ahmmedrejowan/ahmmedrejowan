@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>K M Rejowan Ahmmed</title>
+    <link href="https://cv.rejowan.com/feed.xml" rel="self" />
+    <link href="https://cv.rejowan.com" />
+    <updated>2024-03-07T19:14:10+06:00</updated>
+    <author>
+        <name>K M Rejowan Ahmmed</name>
+    </author>
+    <id>https://cv.rejowan.com</id>
+
+    <entry>
+        <title>Device Info - Hardware Info</title>
+        <author>
+            <name>K M Rejowan Ahmmed</name>
+        </author>
+        <link href="https://cv.rejowan.com/device-info/"/>
+        <id>https://cv.rejowan.com/device-info/</id>
+        <media:content url="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" medium="image" />
+            <category term="Android App"/>
+
+        <updated>2024-03-07T19:14:10+06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" alt="Device Info" />
+                    Introduction Introducing Device Info, my latest Android app! After trying out a bunch of device information apps, I got curious&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" class="type:primaryImage" alt="Device Info" /></p>
+                <h2><strong>Introduction</strong></h2>
+<p>Introducing Device Info, my latest Android app! After trying out a bunch of device information apps, I got curious about how they work. That led me to think, "Why not make one myself?"</p>
+<p>So, I used Kotlin and a bit of Java, plus some basic XML design, to create my own. Before diving in, I checked out similar apps to see what features I liked. Then, I made a list of what I wanted in my app. My main goal? To make it super easy to use and give you all the info you need about your device.</p>
+<p>It took about a month to finish everything – planning, designing, building, and testing. But now, Device Info is good to go! It's been quite the journey, and I'm excited to share it with you.</p>
+<p>Device Info isn't just another app. It's the product of my passion for making something useful and user-friendly. So, let's jump in together and explore your Android device like never before!</p>
+<h2>Features</h2>
+<p>The app consists of five main components that work together to provide a seamless user experience. </p>
+<p><strong>Dashboard</strong></p>
+<ul>
+<li><strong>At-a-Glance Insights</strong>: Get a quick overview of your device’s most crucial information, all presented on a beautifully designed dashboard.</li>
+</ul>
+<p><strong>Detailed Information</strong></p>
+<ul>
+<li><strong>Component Breakdown</strong>: Explore in-depth details of your device’s CPU, GPU, OS, Display, RAM, Storage, Battery, and more.</li>
+<li><strong>Connectivity and Network</strong>: Understand your device’s network capabilities, including Wi-Fi, Bluetooth, and NFC connections.</li>
+</ul>
+<p><strong>Real-Time Monitoring</strong></p>
+<ul>
+<li><strong>Performance Metrics</strong>: Monitor real-time data on CPU and RAM usage, as well as battery health, to keep your device running smoothly.</li>
+</ul>
+<p><strong>App Management</strong></p>
+<ul>
+<li><strong>Comprehensive App Lists</strong>: Manage both installed and system apps, sorted by name, size, and installation date, with detailed pages for each app.</li>
+</ul>
+<p><strong>Hardware Testing</strong></p>
+<ul>
+<li><strong>Interactive Tests</strong>: Verify the functionality of your device’s hardware, including multi-touch, flash, speaker, microphone, and various sensors.</li>
+</ul>
+<h2>Technologies Used</h2>
+<p><strong>Programming Languages</strong></p>
+<ul>
+<li><strong>Java &amp; Kotlin</strong>: For robust and efficient app development.</li>
+<li><strong>XML</strong>: To craft the user interface with precision.</li>
+</ul>
+<p><strong>Database</strong></p>
+<ul>
+<li><strong>SQLite</strong>: For reliable local data storage and management.</li>
+</ul>
+<p><strong>Design Architecture</strong></p>
+<ul>
+<li><strong>MVVM (Model-View-ViewModel)</strong>: Ensures a clean separation of concerns and an organized codebase.</li>
+</ul>
+<p><strong>Integrated Development Environment (IDE)</strong></p>
+<ul>
+<li><strong>Android Studio</strong>: The official IDE for Android development, providing a comprehensive suite of tools for building apps.</li>
+</ul>
+<p><strong>Design Tools</strong></p>
+<ul>
+<li><strong>Figma</strong>: Utilized for high-fidelity UI/UX design and prototyping.</li>
+</ul>
+<p><strong>Libraries</strong></p>
+<ul>
+<li><strong><a href="https://github.com/airbnb/lottie-android" target="_blank" rel="noopener noreferrer">Lottie</a></strong>: For adding high-quality animations to the app.</li>
+<li><strong><a href="https://github.com/InsertKoinIO/koin" target="_new">Koin</a>:</strong> A pragmatic lightweight dependency injection framework.</li>
+<li><strong><a href="https://github.com/google/gson" target="_new">Gson</a></strong>: For parsing and serializing JSON data efficiently.</li>
+<li><strong><a href="https://github.com/PhilJay/MPAndroidChart" target="_new">MPAndroidChart</a></strong>: For rendering complex charts and graphs.</li>
+<li><strong><a href="https://github.com/bumptech/glide" target="_new">Glide</a></strong>: For efficient image loading and caching.</li>
+<li><strong><a href="https://github.com/ahmmedrejowan/AndroidBatteryView">AndroidBatteryView</a></strong>: A custom library created specifically for displaying battery information.</li>
+</ul>
+<p><strong>Version Control</strong></p>
+<ul>
+<li><strong>GitHub</strong>: Used for source code management, allowing for collaborative development and version tracking.</li>
+</ul>
+<p><strong>Analytics</strong></p>
+<ul>
+<li><strong>Firebase</strong>: Provides insights into app usage and user engagement.</li>
+</ul>
+<h2>Workflow</h2>
+<ol>
+<li>
+<p><strong>Research and Planning</strong>: I began by exploring existing device information apps to understand their features and user experiences. This helped me identify what I wanted to include in my own app and any potential improvements I could make.</p>
+</li>
+<li>
+<p><strong>UI Drafting</strong>: With a clear idea of the features, I sketched out drafts of the user interface. As a developer, I find that starting with drafts allows for flexibility, especially when you’re unsure about the extent of information you can access.</p>
+</li>
+<li>
+<p><strong>Coding the Core</strong>: I dove into coding with the MVVM architecture, focusing on fetching various device details such as CPU, GPU, and battery information. This structure allowed me to build the app piece by piece, ensuring each part was fully functional.</p>
+</li>
+<li>
+<p><strong>Design Iteration</strong>: As I obtained the necessary information for each section, I refined the UI design for that particular part. This iterative process meant that the design evolved alongside the app’s capabilities.</p>
+</li>
+<li>
+<p><strong>Bringing it All Together</strong>: Step by step, I integrated all planned features, ensuring that each element worked harmoniously within the app. The result was a cohesive and informative user experience.</p>
+</li>
+</ol>
+<h2>Problem and Solution</h2>
+<ul>
+<li><strong>Device Name</strong></li>
+</ul>
+<p><strong>Problem:</strong> The Android SDK does not provide the market name of devices, only the model name given by the manufacturer, which can be unfamiliar to users.</p>
+<p><strong>Solution:</strong> To address this, I compiled a comprehensive list of all Android devices from the official Supported Devices page. From this list, I created a SQLite database, allowing me to query the market device name using the manufacturer’s model name. This ensures users can identify their devices with the names they’re accustomed to.</p>
+<ul>
+<li><strong>Brand Icon</strong></li>
+</ul>
+<p><strong>Problem:</strong> Displaying the brand of a device in a visually appealing way can be challenging due to the variety of brands and associated icons.</p>
+<p><strong>Solution:</strong> I developed a custom module containing icons for different device brands. This module can be easily integrated into the app, providing a consistent and recognizable visual representation of the device’s brand.</p>
+<ul>
+<li><strong>Android Icons</strong></li>
+</ul>
+<p><strong>Problem:</strong> Similar to brand icons, there’s a need for a uniform set of Android icons that represent various device features and specifications.</p>
+<p><strong>Solution:</strong> Utilizing the approach taken with the brand icons, I created a custom module for Android icons. This module includes a curated selection of icons that represent the Android platform, enhancing the user interface with familiar and intuitive graphics.</p>
+<ul>
+<li><strong>CPU and GPU Information</strong></li>
+</ul>
+<p><strong>Problem:</strong> The Android SDK does not provide detailed information about the CPU and GPU, such as the market name or specific core details. For example, while the CPU model might be listed as SM7325, it doesn’t reveal that this corresponds to the Snapdragon 778G.</p>
+<p><strong>Solution:</strong> To overcome this, I scraped a list of all system-on-chips for Android devices and created a SQLite database with comprehensive details. Now, by querying the database with the CPU model, users can retrieve the full specifications, including the market name, fabrication details, and individual core information.</p>
+<ul>
+<li><strong>SDK Limitations</strong></li>
+</ul>
+<p><strong>Problem:</strong> Many hardware details are not readily available through the Android SDK, necessitating direct reading of Linux kernel files to obtain necessary information.</p>
+<p><strong>Solution:</strong> By delving into the Linux kernel files, I extracted the required data that the SDK does not provide. This approach has enabled the app to present a more complete picture of the device’s hardware.</p>
+<ul>
+<li><strong>Realtime Charting</strong></li>
+</ul>
+<p><strong>Problem:</strong> The MP Android Chart library does not support realtime chart updates by default, which is essential for displaying dynamic data.</p>
+<p><strong>Solution:</strong> With some creative adjustments and technical tweaks, I managed to enable realtime updates on the charts. This allows the app to display data that changes in real-time, enhancing the user experience.</p>
+<ul>
+<li><strong>Battery View</strong></li>
+</ul>
+<p><strong>Problem:</strong> There was no suitable solution available to display current battery information as a dynamic view or icon that changes according to the battery’s charge level and state.</p>
+<p><strong>Solution:</strong> I developed ‘Android Battery View,’ a custom view extending the Android View class, to dynamically represent the battery’s status. This custom view changes its appearance based on the battery level and can be found on my GitHub repository: <a href="https://github.com/ahmmedrejowan/AndroidBatteryView">Android Battery View</a>.</p>
+<h2>Screenshots</h2>
+<table style="border-collapse: collapse; width: 99.8575%; height: 1069.94px;" border="1">
+<tbody>
+<tr style="height: 524.969px;">
+<td style="width: 33.3809%; height: 524.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+<td style="width: 33.3809%; height: 524.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+<td style="width: 33.3809%; height: 524.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2-xl.jpg 1024w"></figure></td>
+</tr>
+<tr style="height: 544.969px;">
+<td style="width: 33.3809%; height: 544.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+<td style="width: 33.3809%; height: 544.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+<td style="width: 33.3809%; height: 544.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+</tr>
+</tbody>
+</table>
+<h2>Demo</h2>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
