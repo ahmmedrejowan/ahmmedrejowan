@@ -3,12 +3,166 @@
     <title>K M Rejowan Ahmmed</title>
     <link href="https://cv.rejowan.com/feed.xml" rel="self" />
     <link href="https://cv.rejowan.com" />
-    <updated>2024-03-08T02:20:55+06:00</updated>
+    <updated>2024-03-25T18:56:35+06:00</updated>
     <author>
         <name>K M Rejowan Ahmmed</name>
     </author>
     <id>https://cv.rejowan.com</id>
 
+    <entry>
+        <title>Android Battery View (ABV)</title>
+        <author>
+            <name>K M Rejowan Ahmmed</name>
+        </author>
+        <link href="https://cv.rejowan.com/android-battery-view/"/>
+        <id>https://cv.rejowan.com/android-battery-view/</id>
+        <media:content url="https://cv.rejowan.com/media/posts/19/Android-Battery-View.jpg" medium="image" />
+            <category term="Android Library"/>
+
+        <updated>2024-03-25T18:56:35+06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cv.rejowan.com/media/posts/19/Android-Battery-View.jpg" alt="Android Battery View" />
+                    Introduction This library was born out of necessity during the development of the Device Info app. I encountered the challenge&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cv.rejowan.com/media/posts/19/Android-Battery-View.jpg" class="type:primaryImage" alt="Android Battery View" /></p>
+                <h2>Introduction</h2>
+<p>This library was born out of necessity during the development of the Device Info app. I encountered the challenge of presenting battery level and status in a graphical format, yet struggled to find a suitable option that was easy to implement. Despite discovering a few libraries on GitHub, none fulfilled all my requirements, and to my dismay, many were no longer maintained. Faced with this dilemma, I took matters into my own hands and developed Android Battery View (ABV).<br><br>ABV was created hastily, with plenty of room for improvement. However, it currently serves its purpose as is.</p>
+<h2>Features</h2>
+<p>This one has pretty straightfoward features. </p>
+<p><strong>Charge Level</strong></p>
+<ul>
+<li>Accurately displays the charge level from 1 to 100, with each level depicted on the canvas.</li>
+</ul>
+<p><strong>Stats</strong></p>
+<p>Includes four distinct stats:</p>
+<ul>
+<li><strong>Normal:</strong> Indicates discharging status.</li>
+<li><strong>Charging:</strong> Represents when the device is charging.</li>
+<li><strong>Warning:</strong> Indicates a low battery level, albeit not critically low.</li>
+<li><strong>Critical:</strong> Signals a critically low battery, prompting immediate action to find a charger.</li>
+</ul>
+<p><strong>Customization</strong></p>
+<p>Offers customization options:</p>
+<ul>
+<li>Ability to change the color for all four stats.</li>
+<li>Icons associated with charging, warning, and critical stats can be replaced with custom ones.</li>
+<li>Compatible with both portrait and landscape modes.</li>
+</ul>
+<p><strong>BroadcastReceiver</strong></p>
+<p>Enables attachment to a BroadcastReceiver intent:</p>
+<ul>
+<li>Automatically retrieves battery data from the intent, ensuring seamless integration.</li>
+</ul>
+<h2>Demo</h2>
+<table>
+<thead>
+<tr>
+<th>Normal</th>
+<th>Charging</th>
+<th>Warning</th>
+<th>Critical</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot1.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot1.png" alt="Shot1" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot2.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot2.png" alt="Shot2" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot3.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot3.png" alt="Shot3" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot4.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot4.png" alt="Shot4" data-is-external-image="true"></a></td>
+</tr>
+</tbody>
+</table>
+<h2>Technologies Used</h2>
+<p>This library is entirely coded in Kotlin, with additional assistance from XML for attribute creation. Android Studio serves as the primary Integrated Development Environment (IDE) for development.</p>
+<p>The source code is proudly hosted on GitHub.</p>
+<h2>Workflow</h2>
+<ol>
+<li>
+<p><strong>Planning</strong>: I began by examining existing repositories to gather ideas on how I wanted the library to function. I meticulously noted the limitations of these projects and devised a plan based on these observations.</p>
+</li>
+<li>
+<p><strong>Draft UI</strong>: Utilizing Figma, I created initial drafts and collected the necessary icons required for the project.</p>
+</li>
+<li>
+<p><strong>Core Coding</strong>: The development process kicked off with the core coding phase in Kotlin. Starting from the basic structure, I gradually built upon it, shaping it into its final form.</p>
+</li>
+<li>
+<p><strong>Finalizing</strong>: With the core functionality in place, I dedicated time to refining the library, incorporating additional tweaks and enhancements to ensure its optimal performance and usability.</p>
+</li>
+</ol>
+<h2>Problem and Solution</h2>
+<p><strong>Canvas Resources</strong></p>
+<p><strong>Problem: </strong>There is a scarcity of resources available on canvas manipulation. While some outdated tutorials exist, they often lack depth and fail to address advanced topics. Consequently, encountering obstacles during development proved challenging, with few avenues for finding solutions beyond basic documentation.</p>
+<p><strong>Solution</strong>: In the face of this challenge, I adopted a hands-on approach. Testing various theories and techniques, I delved into the intricacies of canvas manipulation. Through perseverance and experimentation, I uncovered solutions to the obstacles encountered along the way. Embracing the age-old tactic of brute-force problem-solving, I navigated through the complexities, ultimately overcoming the limitations imposed by the lack of comprehensive resources.</p>
+<h1>How to Use</h1>
+<p>First you need to add the dependency in your <code>build.gradle</code>  or <code>build.gradle.kts</code> and then just add the XML and Kotlin code. </p>
+<p><strong>Dependency</strong></p>
+<pre class="language-kotlin line-numbers"><code>dependencies {
+    ...
+    implementation("com.github.ahmmedrejowan:AndroidBatteryView:0.1")
+}</code></pre>
+<p><strong>XML</strong></p>
+<pre class="language-html line-numbers"><code>&lt;com.rejowan.abv.ABV
+    android:id="@+id/abv"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:abvBatteryOrientation="portrait"
+    app:abvRadius="10"
+    app:abvSize="50"/&gt;
+</code></pre>
+<p><strong>Kotlin</strong></p>
+<pre class="language-kotlin line-numbers"><code>val abv = binding.abv
+abv.size = 50
+abv.mRadius = 10f
+abv.chargeLevel = 50
+abv.batteyOrientation = BatteryOrientation.PORTRAIT
+abv.isCharging = false</code></pre>
+<p><strong>Broadcast Receiver</strong></p>
+<pre class="language-kotlin line-numbers"><code>class MainActivity : AppCompatActivity() {
+
+    private val binding: ActivityMainBinding by lazy {ActivityMainBinding.inflate(layoutInflater)}
+
+    private val batteryReceiver: BroadcastReceiver = object : BroadcastReceiver() {
+        override fun onReceive(context: Context?, intent: Intent?) {
+            if (intent!=null){
+                binding.abv.attachBatteryIntent(intent)
+            }
+        }
+    }
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(binding.root)
+        registerReceiver(batteryReceiver, IntentFilter(Intent.ACTION_BATTERY_CHANGED))
+
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        unregisterReceiver(batteryReceiver)
+    }
+}</code></pre>
+<p>You can find the whole documentation here - <a href="https://github.com/ahmmedrejowan/AndroidBatteryView" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/AndroidBatteryView</a></p>
+<h2>What I've Learned</h2>
+<ul>
+<li>Developing a solution from scratch requires confronting unfamiliar territories and embracing challenges with an open mind. This experience has made me more receptive to encountering and overcoming new obstacles in future projects.</li>
+<li>The project provided an opportunity to delve deeper into the Android Canvas, enhancing my understanding and proficiency in this area. Experimentation and hands-on exploration have facilitated a more comprehensive grasp of canvas manipulation techniques and capabilities.</li>
+<li>Necessity often drives innovation. By venturing into uncharted territory, I've honed my ability to think creatively and devise novel solutions to complex problems. This mindset of innovation will undoubtedly prove beneficial in tackling future projects.</li>
+</ul>
+<h2>Source Code </h2>
+<p>The source code and the whole project is available on GitHub. </p>
+<p>Repository Link - <a href="https://github.com/ahmmedrejowan/AndroidBatteryView" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/AndroidBatteryView</a></p>
+<p>Repo Page - <a href="https://rejowan.com/AndroidBatteryView/" target="_blank" rel="noopener noreferrer">https://rejowan.com/AndroidBatteryView</a></p>
+<h2>Conclusion</h2>
+<p>In conclusion, the process of developing this new solution has been a journey of challenges and learning. Through experimentation and perseverance, I've expanded my knowledge of Android Canvas and cultivated a mindset of innovation. While there were obstacles along the way, overcoming them has equipped me with valuable skills and experiences for future projects.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Device Info - Hardware Info</title>
         <author>
