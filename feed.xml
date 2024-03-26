@@ -3,12 +3,147 @@
     <title>K M Rejowan Ahmmed</title>
     <link href="https://cv.rejowan.com/feed.xml" rel="self" />
     <link href="https://cv.rejowan.com" />
-    <updated>2024-03-26T12:01:38+06:00</updated>
+    <updated>2024-03-26T16:48:55+06:00</updated>
     <author>
         <name>K M Rejowan Ahmmed</name>
     </author>
     <id>https://cv.rejowan.com</id>
 
+    <entry>
+        <title>Licensy</title>
+        <author>
+            <name>K M Rejowan Ahmmed</name>
+        </author>
+        <link href="https://cv.rejowan.com/licensy/"/>
+        <id>https://cv.rejowan.com/licensy/</id>
+        <media:content url="https://cv.rejowan.com/media/posts/21/Licensy.svg" medium="image" />
+            <category term="Android Library"/>
+
+        <updated>2024-03-26T16:48:55+06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cv.rejowan.com/media/posts/21/Licensy.svg" alt="Licensy" />
+                    Introduction Licensy is a handy Android library crafted in Kotlin. I always use opensouce libraries in all of my projects&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cv.rejowan.com/media/posts/21/Licensy.svg" class="type:primaryImage" alt="Licensy" /></p>
+                <h2>Introduction</h2>
+<p>Licensy is a handy Android library crafted in Kotlin. I always use opensouce libraries in all of my projects and I believe everyone does the same. In my projects I always try to put credits for the libraries or resources I use in my code. I looked for this type of library which will allow me to give the credits or add the licenses of the library in a proper manner for a long time. Guess what? I decided to create one.</p>
+<h2>Features</h2>
+<ol>
+<li>
+<p><strong>Lightweight and Highly Customizable Library:</strong> This library is lightweight and offers extensive customization options, allowing you to tailor it to your specific needs.</p>
+</li>
+<li>
+<p><strong>Versatile Usage:</strong> It can function as a view (LicensyView) and can be seamlessly integrated into various contexts such as activities, fragments, or dialogs, providing flexibility and convenience wherever it's required.</p>
+</li>
+<li>
+<p><strong>Dialog Functionality:</strong> You can utilize it as a Dialog (LicensyDialog), providing users with a familiar interface for interacting with licensing information.</p>
+</li>
+<li>
+<p><strong>BottomSheetDialog Integration:</strong> Additionally, it seamlessly integrates as a BottomSheetDialog (LicensyBottomSheet), ensuring a smooth and cohesive user experience.</p>
+</li>
+</ol>
+<h2>Demo</h2>
+<ul dir="auto">
+<li>1 for Test app home</li>
+<li>2 for View</li>
+<li>3 for Dialog</li>
+<li>4 for BottomSheet</li>
+</ul>
+<p dir="auto"><strong>Shots</strong></p>
+<table>
+<thead>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot1.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot1.png" alt="Shot1" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot2.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot2.png" alt="Shot2" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot3.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot3.png" alt="Shot3" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot4.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot4.png" alt="Shot4" data-is-external-image="true"></a></td>
+</tr>
+</tbody>
+</table>
+<p dir="auto"><strong>Animation </strong></p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<th style="width: 24.9643%;">1</th>
+<th style="width: 24.9643%;">2</th>
+<th style="width: 24.9643%;">3</th>
+<th style="width: 24.9643%;">4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 24.9643%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim1.gif" data-target="animated-image.originalLink"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim1.gif" alt="Anim1" data-target="animated-image.originalImage" data-is-external-image="true"></a></td>
+<td style="width: 24.9643%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim2.gif" data-target="animated-image.originalLink"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim2.gif" alt="Anim2" data-target="animated-image.originalImage" data-is-external-image="true"></a></td>
+<td style="width: 24.9643%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim3.gif" data-target="animated-image.originalLink"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim3.gif" alt="Anim3" data-target="animated-image.originalImage" data-is-external-image="true"></a></td>
+<td style="width: 24.9643%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim4.gif" data-target="animated-image.originalLink"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim4.gif" alt="Anim4" data-target="animated-image.originalImage" data-is-external-image="true"></a></td>
+</tr>
+</tbody>
+</table>
+<h2>Technologies Used</h2>
+<p>This library is entirely coded in Kotlin and XML. Android Studio serves as the primary Integrated Development Environment (IDE) for development.</p>
+<p>The source code is proudly hosted on GitHub.</p>
+<h2>Workflow</h2>
+<ol>
+<li><strong>Planning</strong>: I found some existing projects on GitHub on the same concept. I noted their flaws, shortcomings, the features they offer, and those they don't, but I think they should. Then I developed a plan in my head about what I'm going to do. </li>
+<li><strong>Draft UI</strong>: In Figma, I started planning the UI. It's a lot of text to put in a compact space. Finally, I got a draft and started coding. </li>
+<li><strong>Core Coding:</strong> After drafting, I started coding the skeleton in XML and then created the core code in Kotlin. I began with the View, then the dialog, and finally the Bottom Sheet Dialog. </li>
+<li><strong>Finalizing</strong>: Once the core functionality was established, I focused on fine-tuning the library. This involved dedicating time to incorporate additional tweaks and enhancements, ensuring optimal performance and usability before finalizing the project. </li>
+</ol>
+<h1>How to Use</h1>
+<p>First you need to add the dependency in your <code>build.gradle</code>  or <code>build.gradle.kts</code> and then just add the XML and Kotlin code. </p>
+<p><strong>Dependency</strong></p>
+<pre class="language-kotlin line-numbers"><code>dependencies {
+    ...
+    implementation("com.github.ahmmedrejowan:Licensy:0.1")
+}</code></pre>
+<p><strong>XML</strong></p>
+<pre class="language-html line-numbers"><code>    &lt;com.rejowan.licensy.LicensyView
+        android:id="@+id/licensyView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" /&gt;</code></pre>
+<p><strong>Kotlin</strong></p>
+<pre class="language-kotlin line-numbers"><code>    licensyView.setLicenses(listOfLicenses) // set the licenses to the view</code></pre>
+<pre class="language-kotlin line-numbers"><code>data class LicenseContent(
+    val title: String,
+    val author: String,
+    val licenses: Licenses,
+    val copyrightYear: Int? = null,
+    val url: String? = null
+)</code></pre>
+<p><strong>Dialog</strong></p>
+<pre class="language-kotlin line-numbers"><code>val licensyDialog = LicensyDialog(this)
+licensyDialog.setLicenses(list)
+licensyDialog.show()</code></pre>
+<p><strong>BottomSheetDialog</strong></p>
+<pre class="language-kotlin line-numbers"><code>val licensyBottomSheet = LicensyBottomSheet(this)
+licensyBottomSheet.setLicenses(list)
+licensyBottomSheet.show()</code></pre>
+<p>You can find the whole documentation here - <a href="https://github.com/ahmmedrejowan/Licensy" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/Licensy</a></p>
+<h2>What I've Learned</h2>
+<ul>
+<li>I have a deep appreciation for open-source projects, as they have been integral to my work. Utilizing libraries in all of my projects has been a common practice for me. Creating this particular library provided me with the opportunity to properly credit the hard work of those who have contributed to similar projects. It reinforced the importance of acknowledging and honoring the efforts of the open-source community.</li>
+</ul>
+<h2>Source Code </h2>
+<p>The source code and the whole project is available on GitHub. </p>
+<p>Repository Link - <a href="https://github.com/ahmmedrejowan/Licensy" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/Licensy</a></p>
+<p>Repo Page - <a href="https://rejowan.com/Licensy/" target="_blank" rel="noopener noreferrer">https://rejowan.com/Licensy/</a></p>
+<h2>Conclusion</h2>
+<p>In conclusion, embarking on the journey of creating an open-source library has been a fulfilling experience. Through meticulous planning, drafting UI, core coding, and finalizing, I've not only developed a valuable tool but also gained a deeper appreciation for the collaborative spirit of the open-source community. This project has allowed me to contribute back to this community that has been instrumental in my own work, while also providing a platform to properly credit and honor the efforts of others. It reinforces the notion that open-source projects are not just about code, but about fostering a culture of sharing, collaboration, and giving credit where it's due.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rotary Knob</title>
         <author>
