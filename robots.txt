@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cv.rejowan.com/sitemap.xml

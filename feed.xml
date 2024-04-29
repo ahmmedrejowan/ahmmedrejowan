@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>K M Rejowan Ahmmed</title>
+    <link href="https://cv.rejowan.com/feed.xml" rel="self" />
+    <link href="https://cv.rejowan.com" />
+    <updated>2024-04-28T23:32:11+06:00</updated>
+    <author>
+        <name>K M Rejowan Ahmmed</name>
+    </author>
+    <id>https://cv.rejowan.com</id>
+
+    <entry>
+        <title>Licensy</title>
+        <author>
+            <name>K M Rejowan Ahmmed</name>
+        </author>
+        <link href="https://cv.rejowan.com/licensy/"/>
+        <id>https://cv.rejowan.com/licensy/</id>
+        <media:content url="https://cv.rejowan.com/media/posts/21/Licensy.svg" medium="image" />
+            <category term="Android Library"/>
+
+        <updated>2024-04-28T23:32:11+06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cv.rejowan.com/media/posts/21/Licensy.svg" alt="Licensy" />
+                    Introduction Licensy is a handy Android library crafted in Kotlin. I always use opensouce libraries in all of my projects&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cv.rejowan.com/media/posts/21/Licensy.svg" class="type:primaryImage" alt="Licensy" /></p>
+                <h2>Introduction</h2>
+<p>Licensy is a handy Android library crafted in Kotlin. I always use opensouce libraries in all of my projects and I believe everyone does the same. In my projects I always try to put credits for the libraries or resources I use in my code. I looked for this type of library which will allow me to give the credits or add the licenses of the library in a proper manner for a long time. Guess what? I decided to create one.</p>
+<h2>Features</h2>
+<ol>
+<li>
+<p><strong>Lightweight and Highly Customizable Library:</strong> This library is lightweight and offers extensive customization options, allowing you to tailor it to your specific needs.</p>
+</li>
+<li>
+<p><strong>Versatile Usage:</strong> It can function as a view (LicensyView) and can be seamlessly integrated into various contexts such as activities, fragments, or dialogs, providing flexibility and convenience wherever it's required.</p>
+</li>
+<li>
+<p><strong>Dialog Functionality:</strong> You can utilize it as a Dialog (LicensyDialog), providing users with a familiar interface for interacting with licensing information.</p>
+</li>
+<li>
+<p><strong>BottomSheetDialog Integration:</strong> Additionally, it seamlessly integrates as a BottomSheetDialog (LicensyBottomSheet), ensuring a smooth and cohesive user experience.</p>
+</li>
+</ol>
+<h2>Demo</h2>
+<ul dir="auto">
+<li>1 for Test app home</li>
+<li>2 for View</li>
+<li>3 for Dialog</li>
+<li>4 for BottomSheet</li>
+</ul>
+<p> </p>
+<p dir="auto"><strong>Shots</strong></p>
+<table>
+<thead>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot1.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot1.png" alt="Shot1" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot2.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot2.png" alt="Shot2" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot3.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot3.png" alt="Shot3" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot4.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/shot4.png" alt="Shot4" data-is-external-image="true"></a></td>
+</tr>
+</tbody>
+</table>
+<p dir="auto"><strong>Animation </strong></p>
+<table style="width: 100%;">
+<thead>
+<tr>
+<th style="width: 24.9643%;">1</th>
+<th style="width: 24.9643%;">2</th>
+<th style="width: 24.9643%;">3</th>
+<th style="width: 24.9643%;">4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 24.9643%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim1.gif" data-target="animated-image.originalLink"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim1.gif" alt="Anim1" data-target="animated-image.originalImage" data-is-external-image="true"></a></td>
+<td style="width: 24.9643%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim2.gif" data-target="animated-image.originalLink"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim2.gif" alt="Anim2" data-target="animated-image.originalImage" data-is-external-image="true"></a></td>
+<td style="width: 24.9643%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim3.gif" data-target="animated-image.originalLink"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim3.gif" alt="Anim3" data-target="animated-image.originalImage" data-is-external-image="true"></a></td>
+<td style="width: 24.9643%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim4.gif" data-target="animated-image.originalLink"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/Licensy/master/files/anim4.gif" alt="Anim4" data-target="animated-image.originalImage" data-is-external-image="true"></a></td>
+</tr>
+</tbody>
+</table>
+<h2>Technologies Used</h2>
+<p>This library is entirely coded in Kotlin and XML. Android Studio serves as the primary Integrated Development Environment (IDE) for development.</p>
+<p>The source code is proudly hosted on GitHub.</p>
+<h2>Workflow</h2>
+<ol>
+<li><strong>Planning</strong>: I found some existing projects on GitHub on the same concept. I noted their flaws, shortcomings, the features they offer, and those they don't, but I think they should. Then I developed a plan in my head about what I'm going to do. </li>
+<li><strong>Draft UI</strong>: In Figma, I started planning the UI. It's a lot of text to put in a compact space. Finally, I got a draft and started coding. </li>
+<li><strong>Core Coding:</strong> After drafting, I started coding the skeleton in XML and then created the core code in Kotlin. I began with the View, then the dialog, and finally the Bottom Sheet Dialog. </li>
+<li><strong>Finalizing</strong>: Once the core functionality was established, I focused on fine-tuning the library. This involved dedicating time to incorporate additional tweaks and enhancements, ensuring optimal performance and usability before finalizing the project. </li>
+</ol>
+<h1>How to Use</h1>
+<p>First you need to add the dependency in your <code>build.gradle</code>  or <code>build.gradle.kts</code> and then just add the XML and Kotlin code. </p>
+<p><strong>Dependency</strong></p>
+<pre class="language-kotlin line-numbers"><code>dependencies {
+    ...
+    implementation("com.github.ahmmedrejowan:Licensy:0.1")
+}</code></pre>
+<p><strong>XML</strong></p>
+<pre class="language-html line-numbers"><code>    &lt;com.rejowan.licensy.LicensyView
+        android:id="@+id/licensyView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" /&gt;</code></pre>
+<p><strong>Kotlin</strong></p>
+<pre class="language-kotlin line-numbers"><code>    licensyView.setLicenses(listOfLicenses) // set the licenses to the view</code></pre>
+<pre class="language-kotlin line-numbers"><code>data class LicenseContent(
+    val title: String,
+    val author: String,
+    val licenses: Licenses,
+    val copyrightYear: Int? = null,
+    val url: String? = null
+)</code></pre>
+<p><strong>Dialog</strong></p>
+<pre class="language-kotlin line-numbers"><code>val licensyDialog = LicensyDialog(this)
+licensyDialog.setLicenses(list)
+licensyDialog.show()</code></pre>
+<p><strong>BottomSheetDialog</strong></p>
+<pre class="language-kotlin line-numbers"><code>val licensyBottomSheet = LicensyBottomSheet(this)
+licensyBottomSheet.setLicenses(list)
+licensyBottomSheet.show()</code></pre>
+<p>You can find the whole documentation here - <a href="https://github.com/ahmmedrejowan/Licensy" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/Licensy</a></p>
+<h2>What I've Learned</h2>
+<ul>
+<li>I have a deep appreciation for open-source projects, as they have been integral to my work. Utilizing libraries in all of my projects has been a common practice for me. Creating this particular library provided me with the opportunity to properly credit the hard work of those who have contributed to similar projects. It reinforced the importance of acknowledging and honoring the efforts of the open-source community.</li>
+</ul>
+<h2>Source Code </h2>
+<p>The source code and the whole project is available on GitHub. </p>
+<p>Repository Link - <a href="https://github.com/ahmmedrejowan/Licensy" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/Licensy</a></p>
+<p>Repo Page - <a href="https://rejowan.com/Licensy/" target="_blank" rel="noopener noreferrer">https://rejowan.com/Licensy/</a></p>
+<h2>Conclusion</h2>
+<p>In conclusion, embarking on the journey of creating an open-source library has been a fulfilling experience. Through meticulous planning, drafting UI, core coding, and finalizing, I've not only developed a valuable tool but also gained a deeper appreciation for the collaborative spirit of the open-source community. This project has allowed me to contribute back to this community that has been instrumental in my own work, while also providing a platform to properly credit and honor the efforts of others. It reinforces the notion that open-source projects are not just about code, but about fostering a culture of sharing, collaboration, and giving credit where it's due.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Rotary Knob</title>
+        <author>
+            <name>K M Rejowan Ahmmed</name>
+        </author>
+        <link href="https://cv.rejowan.com/rotary-knob/"/>
+        <id>https://cv.rejowan.com/rotary-knob/</id>
+        <media:content url="https://cv.rejowan.com/media/posts/20/RotaryKnob.svg" medium="image" />
+            <category term="Android Library"/>
+
+        <updated>2024-03-26T12:01:38+06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cv.rejowan.com/media/posts/20/RotaryKnob.svg" alt="Rotary Knob" />
+                    Introduction Rotary Knob is a handy Android library crafted in Kotlin. It fills the gap where Android lacks a volume&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cv.rejowan.com/media/posts/20/RotaryKnob.svg" class="type:primaryImage" alt="Rotary Knob" /></p>
+                <h2>Introduction</h2>
+<p>Rotary Knob is a handy Android library crafted in Kotlin. It fills the gap where Android lacks a volume knob view. Existing solutions are often outdated and incomplete. Rotary Knob steps in to provide a simple, customizable, and well-maintained volume knob for Android developers. It's your go-to solution for adding intuitive volume controls to your apps, enhancing user experience effortlessly.</p>
+<h2>Features</h2>
+<ul>
+<li>
+<p><strong>Rotational Functionality</strong>: Just like its name suggests, the Rotary Knob can rotate similar to a volume knob, operating in the same manner.</p>
+</li>
+<li>
+<p><strong>Highly Customizable</strong>: With several distinct styles available, users can tailor the Rotary Knob to suit their preferences. It offers more than 50 different customizable attributes accessible in both XML and Kotlin formats.</p>
+</li>
+<li>
+<p><strong>Two Visual Sets</strong>: The Rotary Knob presents users with two sets of visuals: one featuring lines and another showcasing circles, providing options to match various design preferences.</p>
+</li>
+<li>
+<p><strong>Lightweight Design</strong>: Utilizing only Canvas-Draw, the Rotary Knob maintains a lightweight profile. It avoids the use of drawables, contributing to efficient resource management.</p>
+</li>
+</ul>
+<h2>Demo</h2>
+<table>
+<thead>
+<tr>
+<th>Shots</th>
+<th>Shots</th>
+<th>Shots</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot1.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot1.png" alt="Shot1" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot2.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot2.png" alt="Shot2" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot3.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot3.png" alt="Shot3" data-is-external-image="true"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot4.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot4.png" alt="Shot4" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot5.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot5.png" alt="Shot5" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot6.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/RotaryKnob/master/files/shot6.png" alt="Shot6" data-is-external-image="true"></a></td>
+</tr>
+</tbody>
+</table>
+<h2>Technologies Used</h2>
+<p>This library is entirely coded in Kotlin, with additional assistance from XML for attribute creation. Android Studio serves as the primary Integrated Development Environment (IDE) for development.</p>
+<p>The source code is proudly hosted on GitHub.</p>
+<h2>Workflow</h2>
+<ol>
+<li>
+<p><strong>Planning</strong>: I began by researching various images of Volume Knobs online to gather inspiration for the design. After reviewing around 10-20 different styles, I formulated a plan. However, I soon realized that my initial plan needed adjustments, prompting me to refine it further.</p>
+</li>
+<li>
+<p><strong>Draft UI</strong>: Using Figma, I created multiple design concepts for the Rotary Knob. After careful consideration, I selected two distinct styles—one featuring circles and the other lines—as the primary visual representations.</p>
+</li>
+<li>
+<p><strong>Core Coding</strong>: The development process commenced with the core coding phase using Kotlin. Starting from the foundational structure, I progressively implemented the functionality, iteratively refining and expanding upon it to shape the Rotary Knob into its final form.</p>
+</li>
+<li>
+<p><strong>Finalizing</strong>: Once the core functionality was established, I focused on fine-tuning the library. This involved dedicating time to incorporate additional tweaks and enhancements, ensuring optimal performance and usability before finalizing the project.</p>
+</li>
+</ol>
+<h2>Problem and Solution</h2>
+<p><strong>Canvas Angle Dilemma</strong></p>
+<p><strong>Problem</strong>: Canvas drawing poses challenges with angles, particularly concerning the progression of the circle. Initially smooth, issues arose when implementing progress step drawing. The draw angle commenced anti-clockwise, contrary to the required clockwise direction. Furthermore, touch events presented angles in a convoluted manner, using both positive and negative degrees, exacerbating the complexity.</p>
+<p><strong>Solution</strong>: To address these challenges, I devised several adjustments. Firstly, I modified the angle obtained from OnTouchEvent by 90 degrees and added 360 if it was negative. This rectified discrepancies in angle representation. Secondly, I tackled the anti-clockwise drawing dilemma by subtracting from 360 degrees. Despite complexities arising from offsets in both start and end points, persistent experimentation and self-learning led to viable solutions. The scarcity of online resources for Canvas Draw necessitated a reliance on hands-on experimentation and personal learning.</p>
+<h1>How to Use</h1>
+<p>First you need to add the dependency in your <code>build.gradle</code>  or <code>build.gradle.kts</code> and then just add the XML and Kotlin code. </p>
+<p><strong>Dependency</strong></p>
+<pre class="language-kotlin line-numbers"><code>dependencies {
+    ...
+    implementation("com.github.ahmmedrejowan:RotaryKnob:0.1")
+}</code></pre>
+<p><strong>XML</strong></p>
+<pre class="language-html line-numbers"><code>    &lt;com.rejowan.rotaryknob.RotaryKnob
+        android:id="@+id/rotaryKnob"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="20dp" /&gt;
+</code></pre>
+<p><strong>Kotlin</strong></p>
+<pre class="language-kotlin line-numbers"><code>
+        // listener for knob enable/disable
+        binding.rotaryKnob.knobEnableListener = object : RotaryKnob.OnKnobEnableListener {
+            override fun onKnobEnableChanged(isEnable: Boolean, progress: Int) {
+
+            }
+        }
+
+        // listener for knob progress change
+        binding.rotaryKnob.progressChangeListener = object : RotaryKnob.OnProgressChangeListener {
+            override fun onProgressChanged(progress: Int) {
+
+            }
+        }
+        
+        // set knob min, max and current progress
+        binding.rotaryKnob.currentProgress = 50
+        binding.rotaryKnob.min = 0
+        binding.rotaryKnob.max = 100
+</code></pre>
+<p>You can find the whole documentation here - <a href="https://github.com/ahmmedrejowan/RotaryKnob" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/RotaryKnob</a></p>
+<h2>What I've Learned</h2>
+<ul>
+<li>Making this project required me to refresh my math knowledge. Even though it was tough, it helped me get better at creating custom views.</li>
+<li>I gained a lot of experience by creating a custom library with complicated features and designs. This taught me a lot about how to make libraries from scratch.</li>
+<li>When you really need something, you find new and creative ways to make it happen. This project challenged me to think outside the box, and that mindset will be useful for future projects.</li>
+</ul>
+<h2>Source Code </h2>
+<p>The source code and the whole project is available on GitHub. </p>
+<p>Repository Link - <a href="https://github.com/ahmmedrejowan/RotaryKnob" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/RotaryKnob</a></p>
+<p>Repo Page - <a href="https://rejowan.com/RotaryKnob/" target="_blank" rel="noopener noreferrer">https://rejowan.com/RotaryKnob/</a></p>
+<h2>Conclusion</h2>
+<p>In conclusion, working on this project taught me a lot. I improved my math skills and learned how to create custom views. Developing the library was a big experience, but it helped me understand complex functions better. I also realized that when you really need something, you find new ways to make it work. Overall, this project was a valuable learning experience that will help me in future projects.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Android Battery View (ABV)</title>
+        <author>
+            <name>K M Rejowan Ahmmed</name>
+        </author>
+        <link href="https://cv.rejowan.com/android-battery-view/"/>
+        <id>https://cv.rejowan.com/android-battery-view/</id>
+        <media:content url="https://cv.rejowan.com/media/posts/19/Android-Battery-View.svg" medium="image" />
+            <category term="Android Library"/>
+
+        <updated>2024-03-26T11:35:10+06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cv.rejowan.com/media/posts/19/Android-Battery-View.svg" alt="Android Battery View" />
+                    Introduction This library was born out of necessity during the development of the Device Info app. I encountered the challenge&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cv.rejowan.com/media/posts/19/Android-Battery-View.svg" class="type:primaryImage" alt="Android Battery View" /></p>
+                <h2>Introduction</h2>
+<p>This library was born out of necessity during the development of the Device Info app. I encountered the challenge of presenting battery level and status in a graphical format, yet struggled to find a suitable option that was easy to implement. Despite discovering a few libraries on GitHub, none fulfilled all my requirements, and to my dismay, many were no longer maintained. Faced with this dilemma, I took matters into my own hands and developed Android Battery View (ABV).<br><br>ABV was created hastily, with plenty of room for improvement. However, it currently serves its purpose as is.</p>
+<h2>Features</h2>
+<p>This one has pretty straightfoward features. </p>
+<p><strong>Charge Level</strong></p>
+<ul>
+<li>Accurately displays the charge level from 1 to 100, with each level depicted on the canvas.</li>
+</ul>
+<p><strong>Stats</strong></p>
+<p>Includes four distinct stats:</p>
+<ul>
+<li><strong>Normal:</strong> Indicates discharging status.</li>
+<li><strong>Charging:</strong> Represents when the device is charging.</li>
+<li><strong>Warning:</strong> Indicates a low battery level, albeit not critically low.</li>
+<li><strong>Critical:</strong> Signals a critically low battery, prompting immediate action to find a charger.</li>
+</ul>
+<p><strong>Customization</strong></p>
+<p>Offers customization options:</p>
+<ul>
+<li>Ability to change the color for all four stats.</li>
+<li>Icons associated with charging, warning, and critical stats can be replaced with custom ones.</li>
+<li>Compatible with both portrait and landscape modes.</li>
+</ul>
+<p><strong>BroadcastReceiver</strong></p>
+<p>Enables attachment to a BroadcastReceiver intent:</p>
+<ul>
+<li>Automatically retrieves battery data from the intent, ensuring seamless integration.</li>
+</ul>
+<h2>Demo</h2>
+<table>
+<thead>
+<tr>
+<th>Normal</th>
+<th>Charging</th>
+<th>Warning</th>
+<th>Critical</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot1.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot1.png" alt="Shot1" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot2.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot2.png" alt="Shot2" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot3.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot3.png" alt="Shot3" data-is-external-image="true"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot4.png"><img loading="lazy" src="https://raw.githubusercontent.com/ahmmedrejowan/AndroidBatteryView/master/files/shot4.png" alt="Shot4" data-is-external-image="true"></a></td>
+</tr>
+</tbody>
+</table>
+<h2>Technologies Used</h2>
+<p>This library is entirely coded in Kotlin, with additional assistance from XML for attribute creation. Android Studio serves as the primary Integrated Development Environment (IDE) for development.</p>
+<p>The source code is proudly hosted on GitHub.</p>
+<h2>Workflow</h2>
+<ol>
+<li>
+<p><strong>Planning</strong>: I began by examining existing repositories to gather ideas on how I wanted the library to function. I meticulously noted the limitations of these projects and devised a plan based on these observations.</p>
+</li>
+<li>
+<p><strong>Draft UI</strong>: Utilizing Figma, I created initial drafts and collected the necessary icons required for the project.</p>
+</li>
+<li>
+<p><strong>Core Coding</strong>: The development process kicked off with the core coding phase in Kotlin. Starting from the basic structure, I gradually built upon it, shaping it into its final form.</p>
+</li>
+<li>
+<p><strong>Finalizing</strong>: With the core functionality in place, I dedicated time to refining the library, incorporating additional tweaks and enhancements to ensure its optimal performance and usability.</p>
+</li>
+</ol>
+<h2>Problem and Solution</h2>
+<p><strong>Canvas Resources</strong></p>
+<p><strong>Problem: </strong>There is a scarcity of resources available on canvas manipulation. While some outdated tutorials exist, they often lack depth and fail to address advanced topics. Consequently, encountering obstacles during development proved challenging, with few avenues for finding solutions beyond basic documentation.</p>
+<p><strong>Solution</strong>: In the face of this challenge, I adopted a hands-on approach. Testing various theories and techniques, I delved into the intricacies of canvas manipulation. Through perseverance and experimentation, I uncovered solutions to the obstacles encountered along the way. Embracing the age-old tactic of brute-force problem-solving, I navigated through the complexities, ultimately overcoming the limitations imposed by the lack of comprehensive resources.</p>
+<h1>How to Use</h1>
+<p>First you need to add the dependency in your <code>build.gradle</code>  or <code>build.gradle.kts</code> and then just add the XML and Kotlin code. </p>
+<p><strong>Dependency</strong></p>
+<pre class="language-kotlin line-numbers"><code>dependencies {
+    ...
+    implementation("com.github.ahmmedrejowan:AndroidBatteryView:0.1")
+}</code></pre>
+<p><strong>XML</strong></p>
+<pre class="language-html line-numbers"><code>&lt;com.rejowan.abv.ABV
+    android:id="@+id/abv"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:abvBatteryOrientation="portrait"
+    app:abvRadius="10"
+    app:abvSize="50"/&gt;
+</code></pre>
+<p><strong>Kotlin</strong></p>
+<pre class="language-kotlin line-numbers"><code>val abv = binding.abv
+abv.size = 50
+abv.mRadius = 10f
+abv.chargeLevel = 50
+abv.batteyOrientation = BatteryOrientation.PORTRAIT
+abv.isCharging = false</code></pre>
+<p><strong>Broadcast Receiver</strong></p>
+<pre class="language-kotlin line-numbers"><code>class MainActivity : AppCompatActivity() {
+
+    private val binding: ActivityMainBinding by lazy {ActivityMainBinding.inflate(layoutInflater)}
+
+    private val batteryReceiver: BroadcastReceiver = object : BroadcastReceiver() {
+        override fun onReceive(context: Context?, intent: Intent?) {
+            if (intent!=null){
+                binding.abv.attachBatteryIntent(intent)
+            }
+        }
+    }
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(binding.root)
+        registerReceiver(batteryReceiver, IntentFilter(Intent.ACTION_BATTERY_CHANGED))
+
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        unregisterReceiver(batteryReceiver)
+    }
+}</code></pre>
+<p>You can find the whole documentation here - <a href="https://github.com/ahmmedrejowan/AndroidBatteryView" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/AndroidBatteryView</a></p>
+<h2>What I've Learned</h2>
+<ul>
+<li>Developing a solution from scratch requires confronting unfamiliar territories and embracing challenges with an open mind. This experience has made me more receptive to encountering and overcoming new obstacles in future projects.</li>
+<li>The project provided an opportunity to delve deeper into the Android Canvas, enhancing my understanding and proficiency in this area. Experimentation and hands-on exploration have facilitated a more comprehensive grasp of canvas manipulation techniques and capabilities.</li>
+<li>Necessity often drives innovation. By venturing into uncharted territory, I've honed my ability to think creatively and devise novel solutions to complex problems. This mindset of innovation will undoubtedly prove beneficial in tackling future projects.</li>
+</ul>
+<h2>Source Code </h2>
+<p>The source code and the whole project is available on GitHub. </p>
+<p>Repository Link - <a href="https://github.com/ahmmedrejowan/AndroidBatteryView" target="_blank" rel="noopener noreferrer">https://github.com/ahmmedrejowan/AndroidBatteryView</a></p>
+<p>Repo Page - <a href="https://rejowan.com/AndroidBatteryView/" target="_blank" rel="noopener noreferrer">https://rejowan.com/AndroidBatteryView</a></p>
+<h2>Conclusion</h2>
+<p>In conclusion, the process of developing this new solution has been a journey of challenges and learning. Through experimentation and perseverance, I've expanded my knowledge of Android Canvas and cultivated a mindset of innovation. While there were obstacles along the way, overcoming them has equipped me with valuable skills and experiences for future projects.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Device Info - Hardware Info</title>
+        <author>
+            <name>K M Rejowan Ahmmed</name>
+        </author>
+        <link href="https://cv.rejowan.com/device-info/"/>
+        <id>https://cv.rejowan.com/device-info/</id>
+        <media:content url="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" medium="image" />
+            <category term="Android App"/>
+
+        <updated>2024-03-29T23:48:07+06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" alt="Device Info" />
+                    Introduction Introducing Device Info, my latest Android app! After trying out a bunch of device information apps, I got curious&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" class="type:primaryImage" alt="Device Info" /></p>
+                <h2><strong>Introduction</strong></h2>
+<p>Introducing Device Info, my latest Android app! After trying out a bunch of device information apps, I got curious about how they work. That led me to think, "Why not make one myself?"</p>
+<p>So, I used Kotlin and a bit of Java, plus some basic XML design, to create my own. Before diving in, I checked out similar apps to see what features I liked. Then, I made a list of what I wanted in my app. My main goal? To make it super easy to use and give you all the info you need about your device.</p>
+<p>It took about a month to finish everything – planning, designing, building, and testing. But now, Device Info is good to go! It's been quite the journey, and I'm excited to share it with you.</p>
+<p>Device Info isn't just another app. It's the product of my passion for making something useful and user-friendly. So, let's jump in together and explore your Android device like never before!</p>
+<h2>Features</h2>
+<p>The app consists of five main components that work together to provide a seamless user experience. </p>
+<p><strong>Dashboard</strong></p>
+<ul>
+<li><strong>At-a-Glance Insights</strong>: Get a quick overview of your device’s most crucial information, all presented on a beautifully designed dashboard.</li>
+</ul>
+<p><strong>Detailed Information</strong></p>
+<ul>
+<li><strong>Component Breakdown</strong>: Explore in-depth details of your device’s CPU, GPU, OS, Display, RAM, Storage, Battery, and more.</li>
+<li><strong>Connectivity and Network</strong>: Understand your device’s network capabilities, including Wi-Fi, Bluetooth, and NFC connections.</li>
+</ul>
+<p><strong>Real-Time Monitoring</strong></p>
+<ul>
+<li><strong>Performance Metrics</strong>: Monitor real-time data on CPU and RAM usage, as well as battery health, to keep your device running smoothly.</li>
+</ul>
+<p><strong>App Management</strong></p>
+<ul>
+<li><strong>Comprehensive App Lists</strong>: Manage both installed and system apps, sorted by name, size, and installation date, with detailed pages for each app.</li>
+</ul>
+<p><strong>Hardware Testing</strong></p>
+<ul>
+<li><strong>Interactive Tests</strong>: Verify the functionality of your device’s hardware, including multi-touch, flash, speaker, microphone, and various sensors.</li>
+</ul>
+<h2>Technologies Used</h2>
+<p><strong>Programming Languages</strong></p>
+<ul>
+<li><strong>Java &amp; Kotlin</strong>: For robust and efficient app development.</li>
+<li><strong>XML</strong>: To craft the user interface with precision.</li>
+</ul>
+<p><strong>Database</strong></p>
+<ul>
+<li><strong>SQLite</strong>: For reliable local data storage and management.</li>
+</ul>
+<p><strong>Design Architecture</strong></p>
+<ul>
+<li><strong>MVVM (Model-View-ViewModel)</strong>: Ensures a clean separation of concerns and an organized codebase.</li>
+</ul>
+<p><strong>Integrated Development Environment (IDE)</strong></p>
+<ul>
+<li><strong>Android Studio</strong>: The official IDE for Android development, providing a comprehensive suite of tools for building apps.</li>
+</ul>
+<p><strong>Design Tools</strong></p>
+<ul>
+<li><strong>Figma</strong>: Utilized for high-fidelity UI/UX design and prototyping.</li>
+</ul>
+<p><strong>Libraries</strong></p>
+<ul>
+<li><strong><a href="https://github.com/airbnb/lottie-android" target="_blank" rel="noopener noreferrer">Lottie</a></strong>: For adding high-quality animations to the app.</li>
+<li><strong><a href="https://github.com/InsertKoinIO/koin" target="_new">Koin</a>:</strong> A pragmatic lightweight dependency injection framework.</li>
+<li><strong><a href="https://github.com/google/gson" target="_new">Gson</a></strong>: For parsing and serializing JSON data efficiently.</li>
+<li><strong><a href="https://github.com/PhilJay/MPAndroidChart" target="_new">MPAndroidChart</a></strong>: For rendering complex charts and graphs.</li>
+<li><strong><a href="https://github.com/bumptech/glide" target="_new">Glide</a></strong>: For efficient image loading and caching.</li>
+<li><strong><a href="https://github.com/ahmmedrejowan/AndroidBatteryView">AndroidBatteryView</a></strong>: A custom library created specifically for displaying battery information.</li>
+</ul>
+<p><strong>Version Control</strong></p>
+<ul>
+<li><strong>GitHub</strong>: Used for source code management, allowing for collaborative development and version tracking.</li>
+</ul>
+<p><strong>Analytics</strong></p>
+<ul>
+<li><strong>Firebase</strong>: Provides insights into app usage and user engagement.</li>
+</ul>
+<h2>Workflow</h2>
+<ol>
+<li>
+<p><strong>Research and Planning</strong>: I began by exploring existing device information apps to understand their features and user experiences. This helped me identify what I wanted to include in my own app and any potential improvements I could make.</p>
+</li>
+<li>
+<p><strong>UI Drafting</strong>: With a clear idea of the features, I sketched out drafts of the user interface. As a developer, I find that starting with drafts allows for flexibility, especially when you’re unsure about the extent of information you can access.</p>
+</li>
+<li>
+<p><strong>Coding the Core</strong>: I dove into coding with the MVVM architecture, focusing on fetching various device details such as CPU, GPU, and battery information. This structure allowed me to build the app piece by piece, ensuring each part was fully functional.</p>
+</li>
+<li>
+<p><strong>Design Iteration</strong>: As I obtained the necessary information for each section, I refined the UI design for that particular part. This iterative process meant that the design evolved alongside the app’s capabilities.</p>
+</li>
+<li>
+<p><strong>Bringing it All Together</strong>: Step by step, I integrated all planned features, ensuring that each element worked harmoniously within the app. The result was a cohesive and informative user experience.</p>
+</li>
+</ol>
+<h2>Problem and Solution</h2>
+<ul>
+<li><strong>Device Name</strong></li>
+</ul>
+<p><strong>Problem:</strong> The Android SDK does not provide the market name of devices, only the model name given by the manufacturer, which can be unfamiliar to users.</p>
+<p><strong>Solution:</strong> To address this, I compiled a comprehensive list of all Android devices from the official Supported Devices page. From this list, I created a SQLite database, allowing me to query the market device name using the manufacturer’s model name. This ensures users can identify their devices with the names they’re accustomed to.</p>
+<ul>
+<li><strong>Brand Icon</strong></li>
+</ul>
+<p><strong>Problem:</strong> Displaying the brand of a device in a visually appealing way can be challenging due to the variety of brands and associated icons.</p>
+<p><strong>Solution:</strong> I developed a custom module containing icons for different device brands. This module can be easily integrated into the app, providing a consistent and recognizable visual representation of the device’s brand.</p>
+<ul>
+<li><strong>Android Icons</strong></li>
+</ul>
+<p><strong>Problem:</strong> Similar to brand icons, there’s a need for a uniform set of Android icons that represent various device features and specifications.</p>
+<p><strong>Solution:</strong> Utilizing the approach taken with the brand icons, I created a custom module for Android icons. This module includes a curated selection of icons that represent the Android platform, enhancing the user interface with familiar and intuitive graphics.</p>
+<ul>
+<li><strong>CPU and GPU Information</strong></li>
+</ul>
+<p><strong>Problem:</strong> The Android SDK does not provide detailed information about the CPU and GPU, such as the market name or specific core details. For example, while the CPU model might be listed as SM7325, it doesn’t reveal that this corresponds to the Snapdragon 778G.</p>
+<p><strong>Solution:</strong> To overcome this, I scraped a list of all system-on-chips for Android devices and created a SQLite database with comprehensive details. Now, by querying the database with the CPU model, users can retrieve the full specifications, including the market name, fabrication details, and individual core information.</p>
+<ul>
+<li><strong>SDK Limitations</strong></li>
+</ul>
+<p><strong>Problem:</strong> Many hardware details are not readily available through the Android SDK, necessitating direct reading of Linux kernel files to obtain necessary information.</p>
+<p><strong>Solution:</strong> By delving into the Linux kernel files, I extracted the required data that the SDK does not provide. This approach has enabled the app to present a more complete picture of the device’s hardware.</p>
+<ul>
+<li><strong>Realtime Charting</strong></li>
+</ul>
+<p><strong>Problem:</strong> The MP Android Chart library does not support realtime chart updates by default, which is essential for displaying dynamic data.</p>
+<p><strong>Solution:</strong> With some creative adjustments and technical tweaks, I managed to enable realtime updates on the charts. This allows the app to display data that changes in real-time, enhancing the user experience.</p>
+<ul>
+<li><strong>Battery View</strong></li>
+</ul>
+<p><strong>Problem:</strong> There was no suitable solution available to display current battery information as a dynamic view or icon that changes according to the battery’s charge level and state.</p>
+<p><strong>Solution:</strong> I developed ‘Android Battery View,’ a custom view extending the Android View class, to dynamically represent the battery’s status. This custom view changes its appearance based on the battery level and can be found on my GitHub repository: <a href="https://github.com/ahmmedrejowan/AndroidBatteryView">Android Battery View</a>.</p>
+<h2>Screenshots</h2>
+<table style="border-collapse: collapse; width: 99.8575%; height: 1069.94px;" border="1">
+<tbody>
+<tr style="height: 524.969px;">
+<td style="width: 33.3809%; height: 524.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+<td style="width: 33.3809%; height: 524.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+<td style="width: 33.3809%; height: 524.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2-xl.jpg 1024w"></figure></td>
+</tr>
+<tr style="height: 544.969px;">
+<td style="width: 33.3809%; height: 544.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+<td style="width: 33.3809%; height: 544.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+<td style="width: 33.3809%; height: 544.969px;"><figure class="post__image"><img loading="lazy"  src="https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f.jpg" alt="" width="400" height="889" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f-xs.jpg 320w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f-sm.jpg 480w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f-md.jpg 768w ,https://cv.rejowan.com/media/posts/18/responsive/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f-xl.jpg 1024w"></figure></td>
+</tr>
+</tbody>
+</table>
+<h2>Demo</h2>
+<p>Here is an APK for testing the Device Info app. </p>
+<p><strong><a href="https://cv.rejowan.com/media/files/Device Info.apk" title="Download Now">Download Now</a></strong></p>
+<h2>What I’ve Learned</h2>
+<p>Throughout the development of this project, my journey was as much about discovery as it was about creation. Here are some key insights I gained:</p>
+<ul>
+<li>
+<p><strong>Understanding Android Devices</strong>: I delved deep into the intricacies of Android devices, unraveling the layers that users interact with daily. This exploration gave me a profound appreciation for the complexity and sophistication of modern mobile devices.</p>
+</li>
+<li>
+<p><strong>System Insights</strong>: I learned how Android’s underlying system operates, where data is meticulously stored, and how it’s retrieved to provide a seamless user experience.</p>
+</li>
+<li>
+<p><strong>App Ecosystem</strong>: Observing how other applications function within the same ecosystem broadened my perspective on designing apps that play well with others, ensuring compatibility and efficiency.</p>
+</li>
+<li>
+<p><strong>Linux Kernel Structure</strong>: The Linux kernel is the bedrock upon which Android stands. Understanding its structure was like learning a new language that, once mastered, allowed me to communicate more effectively with the device’s core.</p>
+</li>
+<li>
+<p><strong>Version Variations</strong>: With each new Android version, changes abound. I learned to navigate these changes, adapting to new information structures and system behaviors.</p>
+</li>
+<li>
+<p><strong>Cross-Version Compatibility</strong>: Ensuring that an app remains functional across different versions of Android was a challenge that taught me the importance of forward-thinking and adaptability in software development.</p>
+</li>
+</ul>
+<h2>Source Code</h2>
+<p>The source is open and hosted on GitHub under Apache 2.0 License. </p>
+<p>Have a look at - <a href="https://github.com/ahmmedrejowan/DeviceInfo">https://github.com/ahmmedrejowan/DeviceInfo</a></p>
+<h2>Conclusion</h2>
+<p>This journey through the development of my Android application has been both challenging and rewarding. It pushed the boundaries of my understanding of Android devices, their operating systems, and the underlying Linux kernel. The solutions I crafted not only solved the immediate problems but also contributed to a broader knowledge base that can assist others facing similar challenges.</p>
+<p>As I continue to explore the vast landscape of mobile development, I remain committed to learning, sharing, and improving. Whether it’s through closed-source ventures that push technological limits or open-source contributions that foster community growth, the adventure never ceases.</p>
+<p>Thank you for following along with this project’s story. May it inspire your own path of discovery and innovation in the world of technology.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

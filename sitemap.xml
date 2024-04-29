@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cv.rejowan.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cv.rejowan.com/</loc>
+</url>
+<url>
+<loc>https://cv.rejowan.com/android-battery-view/</loc>
+<lastmod>2024-03-26T11:35:10+06:00</lastmod>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/19/Android-Battery-View.svg</image:loc>
+<image:title><![CDATA[Android Battery View]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cv.rejowan.com/device-info/</loc>
+<lastmod>2024-03-29T23:48:07+06:00</lastmod>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/18/Device-Info-2.svg</image:loc>
+<image:title><![CDATA[Device Info]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-22-92_29708645a0dcb3a9e27e2a33962bed9f.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-25-80_29708645a0dcb3a9e27e2a33962bed9f.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-33-13_29708645a0dcb3a9e27e2a33962bed9f-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-37-24_29708645a0dcb3a9e27e2a33962bed9f.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-40-38_29708645a0dcb3a9e27e2a33962bed9f.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/18/Screenshot_2024-03-02-18-08-42-74_29708645a0dcb3a9e27e2a33962bed9f.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cv.rejowan.com/licensy/</loc>
+<lastmod>2024-04-28T23:32:11+06:00</lastmod>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/21/Licensy.svg</image:loc>
+<image:title><![CDATA[Licensy]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cv.rejowan.com/rotary-knob/</loc>
+<lastmod>2024-03-26T12:01:38+06:00</lastmod>
+<image:image>
+<image:loc>https://cv.rejowan.com/media/posts/20/RotaryKnob.svg</image:loc>
+<image:title><![CDATA[Rotary Knob]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cv.rejowan.com/tags/android-app/</loc>
+</url>
+<url>
+<loc>https://cv.rejowan.com/tags/android-library/</loc>
+</url>
+</urlset>
