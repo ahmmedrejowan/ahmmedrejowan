@@ -1,3 +1,4 @@
+``` Kotlin
 package com.rejowan
 
 class Rejowan {
@@ -30,3 +31,4 @@ class Rejowan {
     }
 
 }
+```
