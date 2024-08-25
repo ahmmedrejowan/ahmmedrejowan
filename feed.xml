@@ -3,7 +3,7 @@
     <title>K M Rejowan Ahmmed</title>
     <link href="https://cv.rejowan.com/feed.xml" rel="self" />
     <link href="https://cv.rejowan.com" />
-    <updated>2024-08-25T15:19:25+06:00</updated>
+    <updated>2024-08-25T21:46:27+06:00</updated>
     <author>
         <name>K M Rejowan Ahmmed</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://cv.rejowan.com/media/posts/21/Licensy.svg" medium="image" />
             <category term="Android Library"/>
 
-        <updated>2024-08-25T15:19:25+06:00</updated>
+        <updated>2024-03-26T16:48:25+06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cv.rejowan.com/media/posts/21/Licensy.svg" alt="Licensy" />
@@ -51,7 +51,7 @@
 <li>1 for Test app home</li>
 <li>2 for View</li>
 <li>3 for Dialog</li>
-<li>4 for BottomSheet.</li>
+<li>4 for BottomSheet</li>
 </ul>
 <p> </p>
 <p dir="auto"><strong>Shots</strong></p>
@@ -155,7 +155,7 @@ licensyBottomSheet.show()</code></pre>
         <media:content url="https://cv.rejowan.com/media/posts/20/RotaryKnob.svg" medium="image" />
             <category term="Android Library"/>
 
-        <updated>2024-03-26T12:01:38+06:00</updated>
+        <updated>2024-03-26T11:37:55+06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cv.rejowan.com/media/posts/20/RotaryKnob.svg" alt="Rotary Knob" />
@@ -287,7 +287,7 @@ licensyBottomSheet.show()</code></pre>
         <media:content url="https://cv.rejowan.com/media/posts/19/Android-Battery-View.svg" medium="image" />
             <category term="Android Library"/>
 
-        <updated>2024-03-26T11:35:10+06:00</updated>
+        <updated>2024-03-25T18:22:23+06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cv.rejowan.com/media/posts/19/Android-Battery-View.svg" alt="Android Battery View" />
@@ -441,7 +441,7 @@ abv.isCharging = false</code></pre>
         <media:content url="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" medium="image" />
             <category term="Android App"/>
 
-        <updated>2024-03-29T23:48:07+06:00</updated>
+        <updated>2024-03-07T18:00:13+06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cv.rejowan.com/media/posts/18/Device-Info-2.svg" alt="Device Info" />
